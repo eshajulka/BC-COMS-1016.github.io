@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NETS 213 Staff
+title: MC COMS 1016 Staff
 active_tab: staff
 ---
 

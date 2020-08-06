@@ -1,4 +1,7 @@
-crowdsourcing-class.github.io
+BC-COMS-1016.github.io
 =============================
 
-Crowdsourcing and Human Computation (UPenn NETS 213)
+Introduction to Computational Thinking and Data Science (Barnard College COMS 1016)
+
+### Credits
+This course website is based on the template from crowdsourcing-class.github.io
