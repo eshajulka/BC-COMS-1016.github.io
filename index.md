@@ -50,7 +50,7 @@ Teaching Assistants
 : [Course Staff](staff.html) 
 
 Website 
-: [https://bc-coms-1016-f20.github.io/](https://bc-coms-1016-f20.github.io/)
+: [https://bc-coms-1016.github.io/](https://bc-coms-1016.github.io/)
 
 Discussion Forum
 : [Piazza](https://piazza.com/class/kcm2u88of5p1hz)
