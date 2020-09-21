@@ -3,19 +3,9 @@
   lectures:
     -
       date: 2020-10-26
-      slides: slides/class-intro.pdf
+      slides: slides/lecture0-intro.pdf
       title: Intro Lecture
       recording: 
-      readings:
-        -
-          title: Title 1
-          authors: Author
-          url: link
-        - 
-          title: Computational Thinking
-          authors: Jeannette M. Wing
-          url: /readings/Wing06-Comp-thinking.pdf
-          optional: True
       assignments:
         -
           title: Lab 1 - Expressions
@@ -48,6 +38,30 @@
           title: Homework 2 - Array, Tables, and Visualization
           deadline: 2020-11-06
           notes: HW2 and HW3 from ucb/sp20
+  readings:
+    -
+      title: Chapter 1 - Data Science
+      link: https://www.inferentialthinking.com/chapters/01/what-is-data-science.html
+    -
+      title: Chapter 2 - Causality and Experiments
+      link: https://www.inferentialthinking.com/chapters/02/causality-and-experiments.html
+    -
+      title: Chapter 3 - Programming in Python
+      link: https://www.inferentialthinking.com/chapters/03/programming-in-python.html
+    - 
+      title: Chapter 4 - Data Types
+      link: https://www.inferentialthinking.com/chapters/04/Data_Types.html
+    -
+      title: Chapter 5 - Sequences
+      link: https://www.inferentialthinking.com/chapters/05/Sequences.html
+    -
+      title: Chapter 6 - Tables
+      link: https://www.inferentialthinking.com/chapters/06/Tables.html
+  readings-supp:
+    -
+      title: Computational Thinking
+      authors: Jeannette M. Wing
+      url: /readings/Wing06-Comp-thinking.pdf
 - 
   name: Week 2 - Visualizations & More Tables
   lectures: 

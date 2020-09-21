@@ -22,19 +22,37 @@ Please watch this [course overview video](). Also, make sure to fill out the pre
 
 Make sure you are registered for the course [Piazza](https://piazza.com/class/kcm2u88of5p1hz), [Gradescope](), and [JupyterHub]().
 
-
-
 {% for week in site.data.schedule %}
   <h3>
     {{ week.name }}
   </h3>
+  	
+ *Textbook Readings:* 	
+ <ul style="width:45%; float:left;">
+   {% for reading in week.readings %}
+      <li><a href="{{ reading.link }}">{{ reading.title }}</a></li>
+   {% endfor %}
+</ul> 	
 
+*Optional Readings:*
+<ul style="width:45%; float:left;">
+   {% for reading in week.readings-supp %}
+     <li>
+   	 {% if reading.authors %}
+        {{ reading.authors }}, 
+    {% endif %}
+          <a href="{{ reading.url }}">{{ reading.title }}</a> 
+      </li>
+   {% endfor %}
+</ul> 	
+
+  	
+  	
   <table class="table table-striped">
     <thead>
       <tr>
         <th>Date</th> 
         <th>Topic</th>
-        <th>Readings</th>
         <th>Assignment</th>
       </tr>
     </thead>
@@ -87,27 +105,6 @@ Make sure you are registered for the course [Piazza](https://piazza.com/class/kc
             {% endif %}
   	    {% endif %}
 
-        </td>
-        <td>
-          {% if lecture.readings %} 
-            {% for reading in lecture.readings %}
-            {% if reading.url %}
-                {% if reading.optional %}<b>Optional:</b> {% endif %}
-                {% if reading.authors %}
-                {{ reading.authors }}, 
-                {% endif %}
-                <a href="{{ reading.url }}">{{ reading.title }}</a> 
-              <br />
-            {% else %}
-                {% if reading.optional %}<b>Optional</b> {% endif %}
-                {% if reading.authors %}
-                {{ reading.authors }}, 
-                {% endif %}
-               {{ reading.title }} 
-              <br />
-            {% endif %}
-            {% endfor %}
-          {% endif %}
         </td>
         <td>
           {% if lecture.assignments %} 
