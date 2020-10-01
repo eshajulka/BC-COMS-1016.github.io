@@ -53,6 +53,7 @@ Make sure you are registered for the course [Piazza](https://piazza.com/class/kc
       <tr>
         <th>Date</th> 
         <th>Topic</th>
+        <th>Recordings</th>
         <th>Assignment</th>
       </tr>
     </thead>
@@ -105,6 +106,16 @@ Make sure you are registered for the course [Piazza](https://piazza.com/class/kc
             {% endif %}
   	    {% endif %}
 
+        </td>
+        <td>
+          {% if lecture.recordings %}
+            {% for assignment in lecture.recordings %}
+                {% if assignment.optional %}<b>Optional:</b> {% endif %}
+                <a href="{{ assignment.url }}">{{ assignment.title }}</a> 
+              <br />
+                (Due {{assignment.deadline | date: '%a, %b %-d, %Y' }})
+            {% endfor %}
+          {% endif %}
         </td>
         <td>
           {% if lecture.assignments %} 

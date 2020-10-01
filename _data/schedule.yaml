@@ -11,6 +11,10 @@
           title: Lab 1 - Expressions
           deadline: 2020-10-28
           url: add
+      recordings:
+        - title: Module 1.1 Cause & Effect
+          url: http://104.154.42.64/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fmodule1%2FModule1_1.ipynb&branch=master
+          deadline: 2020-10-27
     -
       date: 2020-10-27
       slides: 
@@ -19,7 +23,12 @@
         -
           title: Homework 1 - Causality & Expressions
           url: link
-          deadline: 2020-10-30
+          deadline: 2020-11-01
+      recordings:
+        -
+          title: Module 1.2 Data Types
+          url: http://104.154.42.64/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fmodule1%2FModule1_2.ipynb&branch=master
+          deadline: 2020-10-28
     -
       date: 2020-10-28
       slides: 
@@ -33,11 +42,6 @@
       date: 2020-10-29
       slides: 
       title: Tables
-      assignments:
-        -
-          title: Homework 2 - Array, Tables, and Visualization
-          deadline: 2020-11-06
-          notes: HW2 and HW3 from ucb/sp20
   readings:
     -
       title: Chapter 1 - Data Science
@@ -70,6 +74,11 @@
       slides: 
       title: No Lecture - Fall Break
       type: no_lecture
+      assignments:
+        -
+          title: Homework 2 - Array, Tables, and Visualization
+          deadline: 2020-11-08
+          notes: HW2 and HW3 from ucb/sp20
     -
       date: 2020-11-03
       slides: 
@@ -82,10 +91,18 @@
       assignments:
         -
           title: Lab 3 - Functions & Visualizations
+          deadline: 2020-11-06
     -
       date: 2020-11-05
       slides: 
       title: Lecture 6
+  readings:
+    -
+      title: Chapter 7 - Visualization
+      link: https://www.inferentialthinking.com/chapters/07/Visualization.html
+    -
+      title: CHapter 8 - Functions and Tables
+      link: https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html
 -
   name: Week 3 - Probability, Sampling, and Hypothesis Testing
   lectures: 
