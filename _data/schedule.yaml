@@ -86,7 +86,7 @@
       authors: Jeannette M. Wing
       url: /readings/Wing06-Comp-thinking.pdf
 - 
-  name: Week 2 - Visualizations & More Tables
+  name: Week 2 - Visualizations 
   lectures: 
     -
       date: 2020-11-02
@@ -98,6 +98,11 @@
           title: Homework 2 - Array, Tables, and Visualization
           deadline: 2020-11-08
           notes: HW2 and HW3 from ucb/sp20
+      recordings:
+        -
+          title: Module 2.1 - Charts and Distributions
+          deadline: 2020-11-04
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek2%2FModule2_1-Charts_Data_Types_Categorical_Distributions.ipynb&branch=master
     -
       date: 2020-11-03
       slides: 
@@ -106,24 +111,31 @@
     -
       date: 2020-11-04
       slides: 
-      title: Lecture 5
+      title: Data Visualization I
       assignments:
         -
           title: Lab 3 - Functions & Visualizations
           deadline: 2020-11-06
+      recordings:
+        -
+          title: Module 2.2 - Histograms
+          deadline: 2020-11-05
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek2%2FModule2_2-Histograms.ipynb&branch=master
     -
       date: 2020-11-05
       slides: 
-      title: Lecture 6
+      title: Data Visualization II
+      recordings:
+        -
+          title: Module 2.3 - Overlaid Histograms
+          deadline: Optional
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek2%2FModule2_3-Overlaid_Histograms.ipynb&branch=master
   readings:
     -
       title: Chapter 7 - Visualization
       link: https://www.inferentialthinking.com/chapters/07/Visualization.html
-    -
-      title: CHapter 8 - Functions and Tables
-      link: https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html
 -
-  name: Week 3 - Probability, Sampling, and Hypothesis Testing
+  name: Week 3 - More Tables, Probability & Sampling
   lectures: 
   -
     date: 2020-11-09
@@ -141,8 +153,12 @@
     date: 2020-11-12
     slides: 
     title: Lecture 10
+  readings:
+    -
+      title: CHapter 8 - Functions and Tables
+      link: https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html
 -
-  name: Week 4 - Catchup and Midterm
+  name: Week 4 - Hypothesis Testing, Catchup and Midterm
   lectures:
     -
       date: 2020-11-16
@@ -191,7 +207,7 @@
     title: No Lecture - Thanksgiving
     type: no_lecture
 -
-  name: Week 6 
+  name: Week 6 - Linear Regression
   lectures:
   -
     date: 2020-11-30
