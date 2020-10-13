@@ -13,7 +13,7 @@
           url: add
       recordings:
         - title: Module 1.1 Cause & Effect
-          url: http://104.154.42.64/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fmodule1%2FModule1_1.ipynb&branch=master
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_1-Cause_Effect.ipynb&branch=master
           deadline: 2020-10-27
     -
       date: 2020-10-27
@@ -27,8 +27,13 @@
       recordings:
         -
           title: Module 1.2 Data Types
-          url: http://104.154.42.64/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fmodule1%2FModule1_2.ipynb&branch=master
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_2-Data_Types.ipynb&branch=master
           deadline: 2020-10-28
+        - 
+          title: Module 1.3 Tables
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_3-Table_I.ipynb&branch=master
+          deadline: 2020-10-28
+       
     -
       date: 2020-10-28
       slides: 
@@ -38,10 +43,24 @@
           title: Lab 2 - Tables
           deadline: 2020-10-30
           url: add
+      recordings:
+        -
+          title: Module 1.4 Arrays & Columns
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_4-Arrays_Columns.ipynb&branch=master
+          deadline: 2020-10-29
+        -
+          title: Module 1.5 Building Tables
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_5-Building_Tables.ipynb&branch=master
+          deadline: 2020-10-29
     -
       date: 2020-10-29
       slides: 
       title: Tables
+      recordings:
+        -
+          title: Module 1.6 The Census
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_6-Census.ipynb&branch=master
+          deadline: Optional
   readings:
     -
       title: Chapter 1 - Data Science

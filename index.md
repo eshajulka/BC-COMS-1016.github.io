@@ -50,10 +50,11 @@ Teaching Assistants
 : [Course Staff](staff.html) 
 
 Website 
-: [https://bc-coms-1016.github.io/](https://bc-coms-1016.github.io/)
+: [https://coms1016.barnard.edu/](https://coms1016.barnard.edu/)
 
 Discussion Forum
 : [Piazza](https://piazza.com/class/kcm2u88of5p1hz)
+: Slack - link is in courseworks
 
 Time and place
 : Fall B, MTWR 2:40-3:55pm, Location: TBA
@@ -74,16 +75,16 @@ Prerequisites
 
 
 Course Readings
-: Each lecture has an accompanying chapter/section of the [textbook]()
+: Each lecture has an accompanying chapter/section of the [textbook](https://www.inferentialthinking.com/)
 
 Grading
-: This is a project-based course.  Instead of exams, you will do a series of hands-on assignments and a final project.  
+: This is a project-based course. You will complete a series of hands-on assignments and a final project.  
 
 * Weekly assignments (20%)
 * Projects (25%)
 * Lab (10%)
 * Midterm (15%)
-* Final (25%)
+* Final Project (25%)
 * Participation (5%)
 
 
