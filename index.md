@@ -57,7 +57,9 @@ Discussion Forum
 : Slack - link is in courseworks
 
 Time and place
-: Fall B, MTWR 2:40-3:55pm, Location: TBA
+: Fall B, MTWR 2:40-3:55pm, Location: Check courseworks for Zoom link
+: Lab 01 TR 9:00 - 9:50am
+: Lab 02 MW 6:10 - 7:00pm
 
 Office Hours
 : <a href="office-hours.html">Times</a>

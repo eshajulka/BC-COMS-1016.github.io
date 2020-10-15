@@ -5,12 +5,14 @@
     webpage: http://azpoliak.github.io
     extra_title: Instructor
     office_hours: <a href="http://azpoliak.github.io/calendar">By appointment</a>
+    lab_hours: MW 6:10 - 7:00pm; TR 9:00 - 9:50am
     location: 511 Milstein Center
 -
     name: Francesca Loiodice
     pic: temp.jpg
     email: fl2508@barnard.edu
     office_hours: TBD
+    lab_hours: Thursday 9:00 - 9:50am
     extra_title: Computing Fellow
     location: Austin, Texas 
 -
@@ -18,5 +20,6 @@
     pic: lleblanc.jpg
     email: ll3163@barnard.edu
     office_hours: TBD
+    lab_hours: Tuesday 9:00 - 9:50am
     extra_title: Computing Fellow
     location: New York, NY
