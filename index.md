@@ -60,7 +60,7 @@ Time and place
 : Fall B, MTWR 2:40-3:55pm, Location: TBA
 
 Office Hours
-: TBA
+: <a href="office-hours.html">Times</a>
 
 <!--
 : Tuesday 6-7pm in 3401 Walnut St, room 452C
@@ -80,12 +80,13 @@ Course Readings
 Grading
 : This is a project-based course. You will complete a series of hands-on assignments and a final project.  
 
-* Weekly assignments (20%)
+* Homeworks (20%)
 * Projects (25%)
-* Lab (10%)
+* Pre-course quizes (7.5%)
+<!-- * Lab (10%) -->
 * Midterm (15%)
 * Final Project (25%)
-* Participation (5%)
+* Participation (7.5%)
 
 
 <!-- old grading 
