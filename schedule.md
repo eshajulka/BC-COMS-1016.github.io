@@ -20,32 +20,12 @@ The lecture schedule will be updated as the term progresses.
 
 Please watch this [course overview video](). Also, make sure to fill out the pre-course survey that is available on Courseworks.
 
-Make sure you are registered for the course [Piazza](https://piazza.com/class/kcm2u88of5p1hz), [Gradescope](), and [JupyterHub]().
+Make sure you are registered for the course [Piazza](https://piazza.com/class/kcm2u88of5p1hz), [Gradescope](), and [JupyterHub](http://jupyterhub.coms1016.barnard.edu/).
 
 {% for week in site.data.schedule %}
   <h3>
     {{ week.name }}
   </h3>
-  	
- *Textbook Readings:* 	
- <ul style="width:45%; float:left;">
-   {% for reading in week.readings %}
-      <li><a href="{{ reading.link }}">{{ reading.title }}</a></li>
-   {% endfor %}
-</ul> 	
-
-*Optional Readings:*
-<ul style="width:45%; float:left;">
-   {% for reading in week.readings-supp %}
-     <li>
-   	 {% if reading.authors %}
-        {{ reading.authors }}, 
-    {% endif %}
-          <a href="{{ reading.url }}">{{ reading.title }}</a> 
-      </li>
-   {% endfor %}
-</ul> 	
-
   	
   	
   <table class="table table-striped">
@@ -53,7 +33,8 @@ Make sure you are registered for the course [Piazza](https://piazza.com/class/kc
       <tr>
         <th>Date</th> 
         <th>Topic</th>
-        <th>Recordings</th>
+        <!--<th>Recordings</th>-->
+        <th>Reading</th>
         <th>Assignment</th>
       </tr>
     </thead>
@@ -86,12 +67,20 @@ Make sure you are registered for the course [Piazza](https://piazza.com/class/kc
       <!-- End create a HTML anchor for the most recent lecture -->
         <td>{{ lecture.date | date: '%a, %b %-d, %Y' }}</td>
         <td>
-           {{ lecture.title }} 
+          {% for module in lecture.modules %}
+            {{ module.title }} 
+            {% if module.slides %}
+              <a href="{{ module.slides }}">[slides]</a>
+            {% endif %}
+            {% if module.notebook %}
+              <a href="{{ module.notebook }}">[notebook]</a>
+            {% endif %}
+            <br>
+       
+          {% endfor %}
+           
 
 
-          {% if lecture.slides %}
-            <a href="{{ lecture.slides }}">[slides]</a>
-          {% endif %}
 
 
           {% if lecture.recording %}
@@ -107,15 +96,26 @@ Make sure you are registered for the course [Piazza](https://piazza.com/class/kc
   	    {% endif %}
 
         </td>
-        <td>
-          {% if lecture.recordings %}
-            {% for assignment in lecture.recordings %}
-                {% if assignment.optional %}<b>Optional:</b> {% endif %}
-                <a href="{{ assignment.url }}">{{ assignment.title }}</a> 
-              <br />
-                (Due {{assignment.deadline | date: '%a, %b %-d, %Y' }})
-            {% endfor %}
-          {% endif %}
+        <td>	
+          {% if lecture.readings %} 	
+            {% for reading in lecture.readings %}	
+            {% if reading.url %}	
+                {% if reading.optional %}<b>Optional:</b> {% endif %}	
+                {% if reading.authors %}	
+                {{ reading.authors }}, 	
+                {% endif %}	
+                <a href="{{ reading.url }}">{{ reading.title }}</a> 	
+              <br />	
+            {% else %}	
+                {% if reading.optional %}<b>Optional</b> {% endif %}	
+                {% if reading.authors %}	
+                {{ reading.authors }}, 	
+                {% endif %}	
+               {{ reading.title }} 	
+              <br />	
+            {% endif %}	
+            {% endfor %}	
+          {% endif %}	
         </td>
         <td>
           {% if lecture.assignments %} 

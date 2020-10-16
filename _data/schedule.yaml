@@ -3,15 +3,23 @@
   lectures:
     -
       date: 2020-10-26
-      slides: slides/lecture0-intro.pdf
-      title: Intro Lecture
+      modules:
+        -
+          title: Course Introduction
+          slides: slides/lecture0-intro.pdf
+          notebook:  
+        -
       recording: 
       assignments:
         -
           title: Lab 1 - Expressions
           deadline: 2020-10-28
           url: add
-      recordings:
+      readings:
+        -
+          title: Computational Thinking
+          authors: Jeannette M. Wing
+          url: /readings/Wing06-Comp-thinking.pdf
         - title: Module 1.1 Cause & Effect
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_1-Cause_Effect.ipynb&branch=master
           deadline: 2020-10-27
@@ -24,7 +32,7 @@
           title: Homework 1 - Causality & Expressions
           url: link
           deadline: 2020-11-01
-      recordings:
+      readings:
         -
           title: Module 1.2 Data Types
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_2-Data_Types.ipynb&branch=master
@@ -43,7 +51,7 @@
           title: Lab 2 - Tables
           deadline: 2020-10-30
           url: add
-      recordings:
+      readings:
         -
           title: Module 1.4 Arrays & Columns
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_4-Arrays_Columns.ipynb&branch=master
@@ -56,7 +64,7 @@
       date: 2020-10-29
       slides: 
       title: Tables
-      recordings:
+      readings:
         -
           title: Module 1.6 The Census
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_6-Census.ipynb&branch=master
@@ -98,7 +106,7 @@
           title: Homework 2 - Array, Tables, and Visualization
           deadline: 2020-11-08
           notes: HW2 and HW3 from ucb/sp20
-      recordings:
+      readings:
         -
           title: Module 2.1 - Charts and Distributions
           deadline: 2020-11-04
@@ -116,7 +124,7 @@
         -
           title: Lab 3 - Functions & Visualizations
           deadline: 2020-11-06
-      recordings:
+      readings:
         -
           title: Module 2.2 - Histograms
           deadline: 2020-11-05
@@ -125,7 +133,7 @@
       date: 2020-11-05
       slides: 
       title: Data Visualization II
-      recordings:
+      readings:
         -
           title: Module 2.3 - Overlaid Histograms
           deadline: Optional
