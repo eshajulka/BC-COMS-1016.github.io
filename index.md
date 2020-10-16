@@ -75,6 +75,9 @@ Office Hours
 Prerequisites
 : None - no prior programming or college-math background is required
 
+Modes of Thinking Requirement
+: Thinking Quantitatively and Empirically
+: Thinking Technologically and Digitally
 
 Course Readings
 : Each lecture has an accompanying chapter/section of the [textbook](https://www.inferentialthinking.com/)
@@ -106,7 +109,15 @@ This is a project-based course.  Instead of exams, you will do a series of hands
 -->
 
 Late day policy
-: TBA
+: To account for issues that arise in these uncertain times, each student has 10 late days for the homeworks and projects.
+<br>
+See the [Policies](http://localhost:4000/policies.html#late-days) for more details.
 <!--
 Each student has five free "late days". Homeworks can be submitted at most two days late. If you are out of late days, then you will not be able to submit your homework. One "day" is defined as anytime between 1 second and 24 hours after the homework deadline. The intent of the late day policy it to allow you to take extra time due to unforseen circumstances like illnesses or family emergencies, and for forseeable interruptions like on campus interviewing and religious holidays. You do not need to ask permission to use your late days. No additional late days are granted.
 -->
+
+#### Acknowledgments
+A Google Cloud Education grant is supporting the computational infrastructure for the course.
+<br> 
+Eric Van Dusen, his staff, and The Data Science Education Community have been very helpful 
+in adopting this course at Barnard. 
