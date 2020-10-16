@@ -12,9 +12,9 @@
       recording: 
       assignments:
         -
-          title: Lab 1 - Expressions
+          title: Lab 0 - Expressions
           deadline: 2020-10-28
-          url: add
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab00%2Flab00.ipynb&branch=master
       readings:
         -
           title: Computational Thinking
@@ -48,9 +48,9 @@
       title: Python Introduction, Data Types
       assignments:
         -
-          title: Lab 2 - Tables
+          title: Lab 1 - Tables
           deadline: 2020-10-30
-          url: add
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab01%2Flab01.ipynb&branch=master
       readings:
         -
           title: Module 1.4 Arrays & Columns
@@ -122,8 +122,9 @@
       title: Data Visualization I
       assignments:
         -
-          title: Lab 3 - Functions & Visualizations
+          title: Lab 2 - Functions & Visualizations
           deadline: 2020-11-06
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab02%2Flab02.ipynb&branch=master
       readings:
         -
           title: Module 2.2 - Histograms
