@@ -54,7 +54,7 @@ Website
 
 Discussion Forum
 : [Piazza](https://piazza.com/class/kcm2u88of5p1hz)
-: Slack - link is in courseworks
+: [Slack](https://join.slack.com/t/bc-coms-1016-fallb/signup) *Requires signing up via a barnard.edu or columbia.edu email*
 
 Time and place
 : Fall B, MTWR 2:40-3:55pm, Location: Check courseworks for Zoom link
