@@ -122,8 +122,8 @@ Make sure you are registered for the course [Piazza](https://piazza.com/class/kc
             {% for assignment in lecture.assignments %}
                 {% if assignment.optional %}<b>Optional:</b> {% endif %}
                 <a href="{{ assignment.url }}">{{ assignment.title }}</a> 
-              <br />
                 (Due {{assignment.deadline | date: '%a, %b %-d, %Y' }})
+            <br />
             {% endfor %}
           {% endif %}
         </td>

@@ -9,30 +9,36 @@
           slides: slides/lecture0-intro.pdf
           notebook:  
         -
+          title: Causality & Experiments
       recording: 
       assignments:
         -
-          title: Lab 0 - Expressions
+          title: Lab 0 - Python Intro
           deadline: 2020-10-28
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab00%2Flab00.ipynb&branch=master
+        -
+          title: Homework 1 - Causality & Expressions
+          url: link
+          deadline: 2020-10-29
       readings:
         -
           title: Computational Thinking
           authors: Jeannette M. Wing
           url: /readings/Wing06-Comp-thinking.pdf
+      old_modules:
         - title: Module 1.1 Cause & Effect
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_1-Cause_Effect.ipynb&branch=master
           deadline: 2020-10-27
     -
       date: 2020-10-27
-      slides: 
-      title: Causality & Experiments
-      assignments:
+      modules:
         -
-          title: Homework 1 - Causality & Expressions
-          url: link
-          deadline: 2020-11-01
+          title: Data Types, Expressions
+          slides: 
+          notebook:
+      assignments:
       readings:
+      old_modules:
         -
           title: Module 1.2 Data Types
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_2-Data_Types.ipynb&branch=master
@@ -46,12 +52,17 @@
       date: 2020-10-28
       slides: 
       title: Python Introduction, Data Types
+      modules:
+        -
+          title: Tables -  Arrays & Columns, Building Tables
+          slides: 
+          notebook:
       assignments:
         -
           title: Lab 1 - Tables
           deadline: 2020-10-30
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab01%2Flab01.ipynb&branch=master
-      readings:
+      old_modules:
         -
           title: Module 1.4 Arrays & Columns
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_4-Arrays_Columns.ipynb&branch=master
@@ -62,9 +73,13 @@
           deadline: 2020-10-29
     -
       date: 2020-10-29
-      slides: 
-      title: Tables
       readings:
+      modules:
+        -
+          title: Visualizations from Tables
+          slides: 
+          notebook:
+      old_modules:
         -
           title: Module 1.6 The Census
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_6-Census.ipynb&branch=master
@@ -98,8 +113,9 @@
   lectures: 
     -
       date: 2020-11-02
-      slides: 
-      title: No Lecture - Fall Break
+      slides:
+      modules:
+        - title: No Lecture - Fall Break
       type: no_lecture
       assignments:
         -
@@ -114,7 +130,8 @@
     -
       date: 2020-11-03
       slides: 
-      title: No Lecture - Election Day
+      modules:
+        - title: No Lecture - Fall Break <br> <b>GO VOTE!</b>
       type: no_lecture
     -
       date: 2020-11-04
