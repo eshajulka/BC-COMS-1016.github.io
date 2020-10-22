@@ -62,6 +62,10 @@
           title: Lab 1 - Tables
           deadline: 2020-10-30
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab01%2Flab01.ipynb&branch=master
+        -
+          title: Homework 1 - Arrays and Tables
+          deadline: 2020-11-04
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw01%2Fhw01.ipynb&branch=master
       old_modules:
         -
           title: Module 1.4 Arrays & Columns
@@ -118,10 +122,6 @@
         - title: No Lecture - Fall Break
       type: no_lecture
       assignments:
-        -
-          title: Homework 2 - Array, Tables, and Visualization
-          deadline: 2020-11-08
-          notes: HW2 and HW3 from ucb/sp20
       readings:
         -
           title: Module 2.1 - Charts and Distributions
