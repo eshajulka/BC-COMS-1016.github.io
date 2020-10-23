@@ -1,269 +1,288 @@
 - 
-  name: Week 1 - Intro to Python
-  lectures:
-    -
-      date: 2020-10-26
-      modules:
-        -
-          title: Course Introduction
-          slides: slides/lecture0-intro.pdf
-          notebook:  
-        -
-          title: Causality & Experiments
-      recording: 
-      assignments:
-        -
-          title: Lab 0 - Python Intro
-          deadline: 2020-10-28
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab00%2Flab00.ipynb&branch=master
-        -
-          title: Homework 0 - Causality & Expressions
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw00%2Fhw00.ipynb&branch=master
-          deadline: 2020-10-29
-      readings:
-        -
-          title: Computational Thinking
-          authors: Jeannette M. Wing
-          url: /readings/Wing06-Comp-thinking.pdf
-      old_modules:
-        - title: Module 1.1 Cause & Effect
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_1-Cause_Effect.ipynb&branch=master
-          deadline: 2020-10-27
-    -
-      date: 2020-10-27
-      modules:
-        -
-          title: Data Types, Expressions
-          slides: 
-          notebook:
-      assignments:
-      readings:
-      old_modules:
-        -
-          title: Module 1.2 Data Types
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_2-Data_Types.ipynb&branch=master
-          deadline: 2020-10-28
-        - 
-          title: Module 1.3 Tables
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_3-Table_I.ipynb&branch=master
-          deadline: 2020-10-28
-       
-    -
-      date: 2020-10-28
-      slides: 
-      title: Python Introduction, Data Types
-      modules:
-        -
-          title: Tables -  Arrays & Columns, Building Tables
-          slides: 
-          notebook:
-      assignments:
-        -
-          title: Lab 1 - Tables
-          deadline: 2020-10-30
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab01%2Flab01.ipynb&branch=master
-        -
-          title: Homework 1 - Arrays and Tables
-          deadline: 2020-11-04
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw01%2Fhw01.ipynb&branch=master
-      old_modules:
-        -
-          title: Module 1.4 Arrays & Columns
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_4-Arrays_Columns.ipynb&branch=master
-          deadline: 2020-10-29
-        -
-          title: Module 1.5 Building Tables
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_5-Building_Tables.ipynb&branch=master
-          deadline: 2020-10-29
-    -
-      date: 2020-10-29
-      readings:
-      modules:
-        -
-          title: Visualizations from Tables
-          slides: 
-          notebook:
-      old_modules:
-        -
-          title: Module 1.6 The Census
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_6-Census.ipynb&branch=master
-          deadline: Optional
-  readings:
-    -
-      title: Chapter 1 - Data Science
-      link: https://www.inferentialthinking.com/chapters/01/what-is-data-science.html
-    -
-      title: Chapter 2 - Causality and Experiments
-      link: https://www.inferentialthinking.com/chapters/02/causality-and-experiments.html
-    -
-      title: Chapter 3 - Programming in Python
-      link: https://www.inferentialthinking.com/chapters/03/programming-in-python.html
+  lectures: 
     - 
-      title: Chapter 4 - Data Types
-      link: https://www.inferentialthinking.com/chapters/04/Data_Types.html
-    -
-      title: Chapter 5 - Sequences
-      link: https://www.inferentialthinking.com/chapters/05/Sequences.html
-    -
-      title: Chapter 6 - Tables
-      link: https://www.inferentialthinking.com/chapters/06/Tables.html
-  readings-supp:
-    -
-      title: Computational Thinking
-      authors: Jeannette M. Wing
-      url: /readings/Wing06-Comp-thinking.pdf
+      assignments: 
+        - 
+          deadline: 2020-10-28
+          title: "Lab 0 - Python Intro"
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab00%2Flab00.ipynb&branch=master"
+        - 
+          deadline: 2020-10-29
+          title: "Homework 0 - Causality & Expressions"
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw00%2Fhw00.ipynb&branch=master"
+      date: 2020-10-26
+      modules: 
+        - 
+          notebook: ~
+          slides: slides/lecture0-intro.pdf
+          title: "Course Introduction"
+        - 
+          title: "Causality & Experiments"
+      old_modules: 
+        - 
+          deadline: 2020-10-27
+          title: "Module 1.1 Cause & Effect"
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_1-Cause_Effect.ipynb&branch=master"
+      readings: 
+        - 
+          authors: "Jeannette M. Wing"
+          title: "Computational Thinking"
+          url: /readings/Wing06-Comp-thinking.pdf
+      recording: ~
+    - 
+      assignments: ~
+      date: 2020-10-27
+      modules: 
+        - 
+          notebook: ~
+          slides: ~
+          title: "Data Types, Expressions"
+      old_modules: 
+        - 
+          deadline: 2020-10-28
+          title: "Module 1.2 Data Types"
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_2-Data_Types.ipynb&branch=master"
+        - 
+          deadline: 2020-10-28
+          title: "Module 1.3 Tables"
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_3-Table_I.ipynb&branch=master"
+      readings: ~
+    - 
+      assignments: 
+        - 
+          deadline: 2020-10-30
+          title: "Lab 1 - Tables"
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab01%2Flab01.ipynb&branch=master"
+      date: 2020-10-28
+      modules: 
+        - 
+          notebook: ~
+          slides: ~
+          title: "Tables -  Arrays & Columns, Building Tables"
+      old_modules: 
+        - 
+          deadline: 2020-10-29
+          title: "Module 1.4 Arrays & Columns"
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_4-Arrays_Columns.ipynb&branch=master"
+        - 
+          deadline: 2020-10-29
+          title: "Module 1.5 Building Tables"
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_5-Building_Tables.ipynb&branch=master"
+      slides: ~
+      title: "Python Introduction, Data Types"
+    - 
+      assignments: 
+        - 
+          deadline: 2020-11-02
+          title: "Homework 1 - Arrays and Tables"
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw01%2Fhw01.ipynb&branch=master"
+      date: 2020-10-29
+      readings: ~
+  name: "Week 1 - Intro to Python"
 - 
-  name: Week 2 - Visualizations 
   lectures: 
-    -
+    - 
+      assignments: ~
       date: 2020-11-02
-      slides:
-      modules:
-        - title: No Lecture - Fall Break
+      modules: 
+        - 
+          title: "No Lecture - Fall Break"
+      readings: ~
+      slides: ~
       type: no_lecture
-      assignments:
-      readings:
-    -
+    - 
       date: 2020-11-03
-      slides: 
-      modules:
-        - title: No Lecture - Fall Break <br> <b>GO VOTE!</b>
+      modules: 
+        - 
+          title: "No Lecture - Fall Break <br> <b>GO VOTE!</b>"
+      slides: ~
       type: no_lecture
-    -
-      date: 2020-11-04
-      slides: 
-      title: Data Visualization I
-      assignments:
-        -
-          title: Lab 2 - Functions & Visualizations
+    - 
+      assignments: 
+        - 
           deadline: 2020-11-06
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab02%2Flab02.ipynb&branch=master
-      readings:
-    -
+          title: "Lab 2 - Functions & Visualizations"
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab02%2Flab02.ipynb&branch=master"
+      date: 2020-11-04
+      readings: ~
+      slides: ~
+      title: "Data Visualization I"
+    - 
+      assignments: 
+        - 
+          deadline: 2020-11-09
+          title: "Homework 2 - Table Manipulation & Visualization"
+          url: ~
       date: 2020-11-05
-      slides: 
-      title: Data Visualization II
-      readings:
-  readings:
-    -
-      title: Chapter 7 - Visualization
-      link: https://www.inferentialthinking.com/chapters/07/Visualization.html
--
-  name: Week 3 - More Tables, Probability & Sampling
+      readings: ~
+      slides: ~
+      title: "Data Visualization II"
+  name: "Week 2 - Visualizations"
+  readings: 
+    - 
+      link: "https://www.inferentialthinking.com/chapters/07/Visualization.html"
+      title: "Chapter 7 - Visualization"
+- 
   lectures: 
-  -
-    date: 2020-11-09
-    slides: 
-    title: Lecture 7
-  -
-    date: 2020-11-10
-    slides: 
-    title: Lecture 8
-  -
-    date: 2020-11-11
-    slides: 
-    title: Lecture 9
-  -
-    date: 2020-11-12
-    slides: 
-    title: Lecture 10
-  readings:
-    -
-      title: CHapter 8 - Functions and Tables
-      link: https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html
--
-  name: Week 4 - Hypothesis Testing, Catchup and Midterm
-  lectures:
-    -
-      date: 2020-11-16
-      slides: 
-      title: Lecture 11
-    -
-      date: 2020-11-17
-      slides: 
-      title: Lecture 12
-    -
-      date: 2020-11-18
-      slides: 
-      title: Lecture 13
-    -
-      date: 2020-11-19
-      slides: 
-      title: Lecture 14
-    -
-      date: 2020-11-19
-      title: Last day to withdraw course/declare P/F
-      type: deadline
+    - 
+      assignments: 
+        - 
+          deadline: 2020-11-12
+          title: "Homework 3"
+      date: 2020-11-09
+      slides: ~
+      title: "Lecture 7"
+    - 
+      date: 2020-11-10
+      slides: ~
+      title: "Lecture 8"
+    - 
+      date: 2020-11-11
+      slides: ~
+      title: "Lecture 9"
+    - 
+      date: 2020-11-12
       assignments:
         - 
-          title: Midterm 
+          deadline: 2020-11-16
+          title: "Homework 4"
+          url: ~
+      readings: 
+        - 
+          link: "https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html"
+          title: "CHapter 8 - Functions and Tables"
+      slides: ~
+      title: "Lecture 10"
+  name: "Week 3 - More Tables, Probability & Sampling"
+- 
+  lectures: 
+    - 
+      date: 2020-11-16
+      slides: ~
+      title: "Lecture 11"
+      assignments:
+        - 
+          deadline: 2020-11-19
+          title: "Homework 5"
+          url: ~
+    - 
+      assignments: 
+      date: 2020-11-17
+      slides: ~
+      title: "Lecture 12"
+    - 
+      date: 2020-11-18
+      slides: ~
+      title: "Lecture 13"
+    - 
+      assignments: 
+        - 
           deadline: 2020-11-23
-
--
-  name: Week 5 - Uncertainty, Confidence, and Distributions
-  lectures:
-  -
-    date: 2020-11-23
-    slides: 
-    title: Lecture 15
-  -
-    date: 2020-11-24
-    slides: 
-    title: Lecture 16
-  -
-    date: 2020-11-25
-    slides: 
-    title: No Lecture - Thanksgiving
-    type: no_lecture
-  -
-    date: 2020-11-26
-    slides: 
-    title: No Lecture - Thanksgiving
-    type: no_lecture
--
-  name: Week 6 - Linear Regression
-  lectures:
-  -
-    date: 2020-11-30
-    slides: 
-    title: Lecture 17
-  -
-    date: 2020-12-01
-    slides: 
-    title: Lecture 18
-  -
-    date: 2020-12-02
-    slides: 
-    title: Lecture 19
-  -
-    date: 2020-12-03
-    slides: 
-    title: Lecture 20
--
-  name: Week 7 - Prediction
-  lectures:
-  -
-    date: 2020-12-07
-    slides: 
-    title: Lecture 21
-  -
-    date: 2020-12-08
-    slides: 
-    title: Lecture 22
-  -
-    date: 2020-12-09
-    slides: 
-    title: Lecture 23
-  -
-    date: 2020-12-10
-    slides: 
-    title: Lecture 24
-- name: Week 8
-  lectures:
-  - 
-    date: 2020-12-14
-    slides: 
-    title: Lecture 25
-  -
-    date: 2020-12-23
-    title: Final due
+          title: "Homework 6"
+          url: ~
+      date: 2020-11-19
+      slides: ~
+      title: "Lecture 14"
+    - 
+      assignments: 
+        - 
+          deadline: 2020-11-23
+          title: Midterm
+      date: 2020-11-19
+      title: "Last day to withdraw course/declare P/F"
+      type: deadline
+  name: "Week 4 - Hypothesis Testing, Catchup and Midterm"
+- 
+  lectures: 
+    - 
+      assignments: 
+        - 
+          deadline: 2020-11-26
+          title: "Homework 7"
+          url: ~
+      date: 2020-11-23
+      slides: ~
+      title: "Lecture 15"
+    - 
+      date: 2020-11-24
+      slides: ~
+      title: "Lecture 16"
+    - 
+      date: 2020-11-25
+      slides: ~
+      title: "No Lecture - Thanksgiving"
+      type: no_lecture
+    - 
+      date: 2020-11-26
+      slides: ~
+      title: "No Lecture - Thanksgiving"
+      type: no_lecture
+  name: "Week 5 - Uncertainty, Confidence, and Distributions"
+- 
+  lectures: 
+    - 
+      assignments: 
+        - 
+          deadline: 2020-12-03
+          title: "Homework 8"
+          url: ~
+      date: 2020-11-30
+      slides: ~
+      title: "Lecture 17"
+    - 
+      date: 2020-12-01
+      slides: ~
+      title: "Lecture 18"
+    - 
+      date: 2020-12-02
+      slides: ~
+      title: "Lecture 19"
+    - 
+      date: 2020-12-03
+      slides: ~
+      title: "Lecture 20"
+      assignments: 
+        - 
+          deadline: 2020-12-07
+          title: "Homework 9"
+          url: ~
+  name: "Week 6 - Linear Regression"
+- 
+  lectures: 
+    - 
+      date: 2020-12-07
+      slides: ~
+      title: "Lecture 21"
+      assignments: 
+        - 
+          deadline: 2020-12-10
+          title: "Homework 10"
+          url: ~
+    - 
+      date: 2020-12-08
+      slides: ~
+      title: "Lecture 22"
+    - 
+      date: 2020-12-09
+      slides: ~
+      title: "Lecture 23"
+    - 
+      date: 2020-12-10
+      slides: ~
+      title: "Lecture 24"
+      assignments: 
+        - 
+          deadline: 2020-12-14
+          title: "Homework 11"
+          url: ~
+  name: "Week 7 - Prediction"
+- 
+  lectures: 
+    - 
+      date: 2020-12-14
+      slides: ~
+      title: "Lecture 25"
+    - 
+      date: 2020-12-23
+      title: "Final due"
+  name: "Week 8"
