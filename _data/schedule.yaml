@@ -123,10 +123,6 @@
       type: no_lecture
       assignments:
       readings:
-        -
-          title: Module 2.1 - Charts and Distributions
-          deadline: 2020-11-04
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek2%2FModule2_1-Charts_Data_Types_Categorical_Distributions.ipynb&branch=master
     -
       date: 2020-11-03
       slides: 
@@ -143,19 +139,11 @@
           deadline: 2020-11-06
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab02%2Flab02.ipynb&branch=master
       readings:
-        -
-          title: Module 2.2 - Histograms
-          deadline: 2020-11-05
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek2%2FModule2_2-Histograms.ipynb&branch=master
     -
       date: 2020-11-05
       slides: 
       title: Data Visualization II
       readings:
-        -
-          title: Module 2.3 - Overlaid Histograms
-          deadline: Optional
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek2%2FModule2_3-Overlaid_Histograms.ipynb&branch=master
   readings:
     -
       title: Chapter 7 - Visualization

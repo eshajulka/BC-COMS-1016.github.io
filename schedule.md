@@ -18,7 +18,7 @@ The lecture schedule will be updated as the term progresses.
 
 ### Week 0 - Pre-course
 
-Please watch this [course overview video](). Also, make sure to fill out the pre-course survey that is available on Courseworks.
+Make sure to fill out the pre-course survey that is available on Courseworks.
 
 Make sure you are registered for the course [Gradescope](), [JupyterHub](http://jupyterhub.coms1016.barnard.edu/), and [Slack](https://bc-coms-1016-fallb.slack.com/).
 
