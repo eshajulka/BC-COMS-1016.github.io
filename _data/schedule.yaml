@@ -77,6 +77,11 @@
           title: "Homework 1 - Arrays and Tables"
           url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw01%2Fhw01.ipynb&branch=master"
       date: 2020-10-29
+      modules: 
+        - 
+          notebook: ~
+          slides: 
+          title: "Visualization"
       readings: ~
   name: "Week 1 - Intro to Python"
 - 
@@ -104,9 +109,13 @@
           title: "Lab 2 - Functions & Visualizations"
           url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab02%2Flab02.ipynb&branch=master"
       date: 2020-11-04
+      modules: 
+        - 
+          notebook: ~
+          slides: 
+          title: "Functions and Tables"
       readings: ~
       slides: ~
-      title: "Data Visualization I"
     - 
       assignments: 
         - 
@@ -114,6 +123,11 @@
           title: "Homework 2 - Table Manipulation & Visualization"
           url: ~
       date: 2020-11-05
+      modules: 
+        - 
+          notebook: ~
+          slides: 
+          title: "Programming Catchup"
       readings: ~
       slides: ~
       title: "Data Visualization II"
@@ -136,12 +150,27 @@
       date: 2020-11-09
       slides: ~
       title: "Lecture 7"
+      modules: 
+        - 
+          notebook: ~
+          slides: 
+          title: "Programming Catchup"
     - 
       date: 2020-11-10
+      modules: 
+        - 
+          notebook: ~
+          slides: 
+          title: "Randomness"
       slides: ~
       title: "Lecture 8"
     - 
       date: 2020-11-11
+      modules: 
+        - 
+          notebook: ~
+          slides: 
+          title: "Monty Hall & Probabilities"
       slides: ~
       title: "Lecture 9"
       assignments:
@@ -151,6 +180,11 @@
           url: 
     - 
       date: 2020-11-12
+      modules: 
+        - 
+          notebook: ~
+          slides: 
+          title: "Sampling & Empirical Distributions I"
       assignments:
         - 
           deadline: 2020-11-16
@@ -158,8 +192,8 @@
           url: ~
       readings: 
         - 
-          link: "https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html"
-          title: "CHapter 8 - Functions and Tables"
+          url: "https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html"
+          title: "Chapter 8 - Functions and Tables"
       slides: ~
       title: "Lecture 10"
   name: "Week 3 - More Tables, Probability & Sampling"
@@ -167,6 +201,11 @@
   lectures: 
     - 
       date: 2020-11-16
+      modules: 
+        - 
+          notebook: ~
+          slides: 
+          title: "Sampling & Empirical Distributions II"
       slides: ~
       title: "Lecture 11"
       assignments:
@@ -181,10 +220,20 @@
     - 
       assignments: 
       date: 2020-11-17
+      modules: 
+        - 
+          notebook: ~
+          slides: 
+          title: Hypothesis Testing"
       slides: ~
       title: "Lecture 12"
     - 
       date: 2020-11-18
+      modules: 
+        - 
+          notebook: ~
+          slides: 
+          title: "A/B Testing"
       slides: ~
       title: "Lecture 13"
       assignments:
@@ -198,17 +247,21 @@
           deadline: 2020-11-23
           title: "Homework 6"
           url: ~
+        -
+          deadline: 2020-11-24
+          title: Midterm 
+          notes: potentially released Nov 17th
       date: 2020-11-19
       slides: ~
       title: "Lecture 14"
-    - 
-      assignments: 
-        - 
-          deadline: 2020-11-23
-          title: Midterm
-      date: 2020-11-19
-      title: "Last day to withdraw course/declare P/F"
-      type: deadline
+      modules:
+        -
+          title: Causality
+          slides:
+          notebook: ~
+        -
+          title: "Last day to withdraw course/declare P/F"
+          type: deadline
   name: "Week 4 - Hypothesis Testing, Catchup and Midterm"
 - 
   lectures: 
@@ -223,22 +276,50 @@
           title: "Lab 7"
           url: 
       date: 2020-11-23
-      slides: ~
       title: "Lecture 15"
+      modules:
+        -
+          title: Estimation and Bootstrap 
+          slides:
+          notebook: 
+        -
+          title: Confidence Intervals
+          slides:
+          notebook: 
     - 
       date: 2020-11-24
       slides: ~
       title: "Lecture 16"
+      modules:
+        -
+          title: Distributions
+          slides:
+          notebook:
+          notes: Center, Spread, and the Normal
+        -
+          title: Variance of Sample Means
+          slides:
+          notebook:
+          notes: Center, Spread, and the Normal
     - 
       date: 2020-11-25
       slides: ~
-      title: "No Lecture - Thanksgiving"
+      modules:
+        -
+          title: "No Lecture - Thanksgiving"
+          type: no_lecture
+          slides:
+          notebook: 
       type: no_lecture
     - 
       date: 2020-11-26
-      slides: ~
-      title: "No Lecture - Thanksgiving"
       type: no_lecture
+      modules:
+        -
+          title: "No Lecture - Thanksgiving"
+          type: no_lecture
+          slides:
+          notebook:
   name: "Week 5 - Uncertainty, Confidence, and Distributions"
 - 
   lectures: 
@@ -253,34 +334,55 @@
           title: "Lab 8"
           url: 
       date: 2020-11-30
+      modules:
+        -
+          title: Correlation
+          notebook: ~
+          slides: ~
       slides: ~
       title: "Lecture 17"
     - 
       date: 2020-12-01
-      slides: ~
       title: "Lecture 18"
+      modules:
+        -
+          title: Linear Regression
+          notebook: ~
+          slides: ~
     - 
       date: 2020-12-02
-      slides: ~
       title: "Lecture 19"
       assignments:
         - 
           deadline: 2020-12-04
           title: "Lab 9"
           url: 
+      modules:
+        -
+          title: Least Squares
+          notebook: ~
+          slides: ~
+        -
+          title: Residuals
+          notebook: ~
+          slides: ~
     - 
       date: 2020-12-03
-      slides: ~
       title: "Lecture 20"
       assignments: 
         - 
           deadline: 2020-12-07
           title: "Homework 9"
-          url: ~
+          slides: ~
         - 
           deadline: 2020-12-06
           title: "Lab 9"
-          url: 
+          slides: ~
+      modules:
+        -
+          title: Regression Inference
+          notebook: ~
+          slides: ~
   name: "Week 6 - Linear Regression"
 - 
   lectures: 
