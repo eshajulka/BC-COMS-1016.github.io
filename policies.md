@@ -13,9 +13,9 @@ All times listed on the course webpage are in Eastern Standard Time (EST).
 
 ### Support
 You are not alone in this course; the course staff
-are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Piazza](piazza.com/columbia/fall2020/comsbc1016). We will also hold virtual office hours for real-time discussions. 
+are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use the appropriate for Slack channels. We will also hold virtual office hours for real-time discussions. 
 
-The Barnard CS help room is a great resources as well. We have listed their times on our [Office Hours page](http://coms1016.barnard.edu/office-hours.html#barnard-cs-help-room). The Zoom link is posted on [Piazza](https://piazza.com/class/kcm2u88of5p1hz?cid=9). 
+The Barnard CS help room is a great resources as well. We have listed their times on our [Office Hours page](http://coms1016.barnard.edu/office-hours.html#barnard-cs-help-room). The Zoom link is posted on [Slack](https://bc-coms-1016-fallb.slack.com/).
 
 ### Prerequisites
 BC COMS 1016 has no prerequisites. The curriculum and format is designed specifically for students who have not previously taken statistics or computer science courses. Students with some prior experience in either statistics or computing are welcome to enroll and will find much of interest due to the innovative nature of the course. Students who have taken several statistics or computer science courses should instead take a more advanced course.

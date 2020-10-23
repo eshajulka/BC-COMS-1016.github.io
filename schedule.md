@@ -20,7 +20,7 @@ The lecture schedule will be updated as the term progresses.
 
 Please watch this [course overview video](). Also, make sure to fill out the pre-course survey that is available on Courseworks.
 
-Make sure you are registered for the course [Piazza](https://piazza.com/class/kcm2u88of5p1hz), [Gradescope](), and [JupyterHub](http://jupyterhub.coms1016.barnard.edu/).
+Make sure you are registered for the course [Gradescope](), [JupyterHub](http://jupyterhub.coms1016.barnard.edu/), and [Slack](https://bc-coms-1016-fallb.slack.com/).
 
 {% for week in site.data.schedule %}
   <h3>

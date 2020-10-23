@@ -81,30 +81,30 @@ as the course meetings and labs
 <tbody>
 <tr align="center">
 <td>Adam Poliak</td>
-<td align="center"></td>
-<td></td>
+<td align="center">Monday<br>Tuesday<br>Thursday</td>
+<td>9pm-10pm <br> 9pm-10pm <br> 9pm-10pm</td>
 </tr>
 <tr>
 <td align="center">Priyadharshini Rajbabu</td>
-<td align="center"></td>
-<td></td>
+<td align="center"> Wednesday <br> Friday </td>
+<td>12pm - 1pm <br> 11am - 12pm</td>
 </tr>
 <tr>
 <td align="center">Francesca Loiodice</td>
-<td align="center"></td>
-<td></td>
+<td align="center">Monday <br> Wednesday </td>
+<td>12:30pm - 1pm <br> 2:30pm - 3pm</td>
 </tr>
 <tr>
 <td align="center">Lucie le Blanc</td>
-<td align="center"></td>
-<td></td>
+<td align="center">Monday <br> Wednesday </td>
+<td>11am - 11:30am <br> 11am - 11:30am</td>
 </tr>
 </tbody>
 </table>
 
 ## Barnard CS Help Room
 
-<h4>See Piazza for link</h4>
+<h4>See Slack for link</h4>
 
 <table>
 <thead>
@@ -120,7 +120,7 @@ as the course meetings and labs
 </tr>
 <tr align="center">
 <td>Thursday</td>
-<td align="center">10am - 12pm <br> 3pm - 5pm <br> 7pm</td>
+<td align="center">10am - 12pm <br> 3pm - 5pm <br> 7pm - 9pm</td>
 </tr>
 <tr align="center">
 <td>Friday</td>
