@@ -173,13 +173,27 @@
       slides: ~
       notebook: ~
       slides: 
-      title: "Programming Catchup"
+      title: "Programming Catchup <br> Conditionals"
+      readings:
+        -
+          url: https://www.inferentialthinking.com/chapters/09/1/Conditional_Statements.html
+          title: "Chapter 9.1 - Conditional Statements"
     - 
       date: 2020-11-10
       notebook: ~
       slides: 
       title: "Randomness"
       slides: ~
+      readings:
+        -
+          url: https://www.inferentialthinking.com/chapters/09/Randomness.html
+          title: Chapter 9 - Randomness
+        -
+          url: https://www.inferentialthinking.com/chapters/09/2/Iteration.html
+          title: Chapter 9.2 - Iterations
+        -
+          url: inferentialthinking.com/chapters/09/3/Simulation.html
+          title: Chapter 9.3 - Simulation
     - 
       date: 2020-11-11
       notebook: ~
@@ -190,6 +204,14 @@
           deadline: 2020-11-13
           title: "Lab 4"
           url: 
+      readings:
+        -
+          url: "https://www.inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html"
+          title: "The Monty Hall Problem"
+        -
+          url: https://www.inferentialthinking.com/chapters/09/5/Finding_Probabilities.html
+          title: "Finding Probabilities"
+
     - 
       date: 2020-11-12
       notebook: ~
@@ -202,8 +224,11 @@
           url: ~
       readings: 
         - 
-          url: "https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html"
-          title: "Chapter 8 - Functions and Tables"
+          url: "https://www.inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html"
+          title: Chapter 10 - Sampling & Empirical Distributions"
+        -
+          url: https://www.inferentialthinking.com/chapters/10/1/Empirical_Distributions.html
+          title: Chapter 10.1 - Empirical Distributions"
       slides: ~
   name: "Week 3 - More Tables, Probability & Sampling"
 - 
@@ -227,7 +252,7 @@
       date: 2020-11-17
       notebook: ~
       slides: 
-      title: Hypothesis Testing"
+      title: "Hypothesis Testing"
       slides: ~
     - 
       date: 2020-11-18
