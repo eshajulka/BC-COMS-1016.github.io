@@ -84,17 +84,17 @@ as the course meetings and labs
 <td align="center">Monday<br>Tuesday<br>Thursday</td>
 <td>9pm-10pm <br> 9pm-10pm <br> 9pm-10pm</td>
 </tr>
-<tr>
+<tr align="center">
 <td align="center">Priyadharshini Rajbabu</td>
 <td align="center"> Wednesday <br> Friday </td>
 <td>12pm - 1pm <br> 11am - 12pm</td>
 </tr>
-<tr>
+<tr align="center">
 <td align="center">Francesca Loiodice</td>
 <td align="center">Monday <br> Wednesday </td>
 <td>12:30pm - 1pm <br> 2:30pm - 3pm</td>
 </tr>
-<tr>
+<tr align="center">
 <td align="center">Lucie le Blanc</td>
 <td align="center">Monday <br> Wednesday </td>
 <td>11am - 11:30am <br> 11am - 11:30am</td>
