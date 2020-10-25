@@ -67,17 +67,17 @@ Make sure you are registered for the course [Gradescope](), [JupyterHub](http://
       <!-- End create a HTML anchor for the most recent lecture -->
         <td>{{ lecture.date | date: '%a, %b %-d, %Y' }}</td>
         <td>
-          {% for module in lecture.modules %}
-            {{ module.title }} 
-            {% if module.slides %}
-              <a href="{{ module.slides }}">[slides]</a>
+         
+            {{ lecture.title }} 
+            {% if lecture.slides %}
+              <a href="{{ lecture.slides }}">[slides]</a>
             {% endif %}
-            {% if module.notebook %}
-              <a href="{{ module.notebook }}">[notebook]</a>
+            {% if lecture.notebook %}
+              <a href="{{ lecture.notebook }}">[notebook]</a>
             {% endif %}
             <br>
        
-          {% endfor %}
+
            
 
 
