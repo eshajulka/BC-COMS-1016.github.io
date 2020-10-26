@@ -11,7 +11,8 @@ active_tab: lectures
 
 
 <div class="alert alert-info">
-You can <a href="">watch recordings of the lecture videos online</a>.
+You can <a href="https://columbia.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ad664074-1c72-4e25-9779-ac300135ae05%22">watch recordings of the lecture videos online</a>.
+Recordings are saved on Panopto and require a UNI login.
 </div>
 
 The lecture schedule will be updated as the term progresses. 
