@@ -53,7 +53,6 @@ Website
 : [https://coms1016.barnard.edu/](https://coms1016.barnard.edu/)
 
 Discussion Forum
-: [Piazza](https://piazza.com/class/kcm2u88of5p1hz)
 : [Slack](https://join.slack.com/t/bc-coms-1016-fallb/signup) *Requires signing up via a barnard.edu or columbia.edu email*
 
 Time and place
@@ -64,14 +63,6 @@ Time and place
 Office Hours
 : <a href="office-hours.html">Times</a>
 
-<!--
-: Tuesday 6-7pm in 3401 Walnut St, room 452C
-: Wednesday 4-6pm in 3401 Walnut Street 4th Floor outside 463C
-: Thursday 6-7pm in 3401 Walnut St, room 452C
-: Friday 2-4pm in 3401 Walnut Street 4th Floor outside 463C
-: CCB's office hours are [by appointment on ccb-office-hours.youcanbook.me](https://ccb-office-hours.youcanbook.me)
--->
-
 Prerequisites
 : None - no prior programming or college-math background is required
 
@@ -81,6 +72,7 @@ Modes of Thinking Requirement
 
 Course Readings
 : Each lecture has an accompanying chapter/section of the [textbook](https://www.inferentialthinking.com/)
+: Some lectures will have accompanying optional reading related to the lecture's topic
 
 Grading
 : This is a project-based course. There will be an open book take home midterm but

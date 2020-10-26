@@ -43,8 +43,8 @@ To account for issues that arise in these uncertain times, each student has **10
 
 ### Labs
 There are two labs a week.
-Both weekly labs will be due by the Friday night (11:59pm) after the lab. 
-***todo: add***
+The M/T labs will be due at Wednesday night (11:59pm) and the W/R labs will be due at 
+Friday night (11:59pm).
 
 There are no late day for the labs
 
