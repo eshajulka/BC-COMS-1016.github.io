@@ -46,8 +46,8 @@
       assignments: ~
       date: 2020-10-27
       title: "Data Types, Expressions"
-      notebook: ~
-      slides: ~
+      notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_2_Data_Types_Expressions.ipynb&branch=master
+      slides: slides/week1/lecture1-data-types-expressions.pdf
       modules: 
         - 
           notebook: ~
