@@ -74,7 +74,12 @@ Make sure you are registered for the course [Gradescope](), [JupyterHub](http://
               <a href="{{ lecture.slides }}">[slides]</a>
             {% endif %}
             {% if lecture.notebook %}
-              <a href="{{ lecture.notebook }}">[notebook]</a>
+              <br>
+              <a href="{{ lecture.notebook }}">[empty notebook]</a>
+            {% endif %}
+            {% if lecture.completed_notebook %}
+              <br>
+              <a href="{{ lecture.completed_notebook }}">[completed notebook]</a>
             {% endif %}
             <br>
        
