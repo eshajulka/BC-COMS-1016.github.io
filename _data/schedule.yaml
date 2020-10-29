@@ -86,16 +86,6 @@
         -
           url: "https://www.inferentialthinking.com/chapters/05/Sequences.html"
           title: "Chapter 5: Sequences"
-      old_modules: 
-        - 
-          deadline: 2020-10-29
-          title: "Module 1.4 Arrays & Columns"
-          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_4-Arrays_Columns.ipynb&branch=master"
-        - 
-          deadline: 2020-10-29
-          title: "Module 1.5 Building Tables"
-          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fmodules%2Fweek1%2FModule1_5-Building_Tables.ipynb&branch=master"
-      slides: ~
     - 
       assignments: 
         - 
