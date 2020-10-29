@@ -76,8 +76,8 @@
           title: "Lab 1 - Tables"
           url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab01%2Flab01.ipynb&branch=master"
       date: 2020-10-28
-      notebook: ~
-      slides: ~
+      notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_3.ipynb&branch=master
+      slides: slides/week1/lecture2-tables_arrays_sequences.pdf
       title: "Tables -  Arrays & Columns, Building Tables"
       readings:
         -
@@ -104,7 +104,7 @@
           url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw01%2Fhw01.ipynb&branch=master"
       date: 2020-10-29
       notebook: ~
-      slides: 
+      slides:  
       title: "More Tables"
       readings:
         -
