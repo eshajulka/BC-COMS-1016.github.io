@@ -164,7 +164,7 @@
       slides: ~
       notebook: ~
       slides: 
-      title: "Programming Catchup <br> Conditionals"
+      title: "Conditionals"
       readings:
         -
           url: https://www.inferentialthinking.com/chapters/09/1/Conditional_Statements.html
