@@ -39,14 +39,14 @@ Homework assignments are a required part of the course. They will be released on
 Data science is about analyzing real-world data sets, and so a series of projects involving real data are a required part of the course. On each project, you may work with a single partner. Both partners will receive the same score.
 
 #### Late days
-To account for issues that arise in these uncertain times, each student has **10 late** days for the homeworks and projects. However, you can only use at most **2 late** days per assignment. 
+To account for issues that arise in these uncertain times, each student has **~~10~~ 15 late** days for the homeworks and projects. However, you can only use at most **2 late** days per assignment. 
 
 ### Labs
 There are two labs a week.
 The M/T labs will be due at Wednesday night (11:59pm) and the W/R labs will be due at 
 Friday night (11:59pm).
 
-There are no late day for the labs
+~~There are no late day for the labs~~ Late days can now be used for the labs.
 
 ### Barnard Student Honor Code
 Approved by the student body in 1912 and updated in 2016, the Code states:
