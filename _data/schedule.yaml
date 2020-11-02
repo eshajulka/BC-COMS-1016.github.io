@@ -120,7 +120,7 @@
       assignments: 
         - 
           deadline: 2020-11-06
-          title: "Lab 2 - Functions & Visualizations"
+          title: "Lab 2 - Data Types and Arrays"
           url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab02%2Flab02.ipynb&branch=master"
       date: 2020-11-04
       title: "Visualization"
@@ -155,10 +155,10 @@
       assignments: 
         - 
           deadline: 2020-11-12
-          title: "Homework 3"
+          title: "Homework 3 - Functions, Histograms, and Groups"
         - 
           deadline: 2020-11-11
-          title: "Lab 3"
+          title: "Lab 3 - Functions and Visualizations"
           url: 
       date: 2020-11-09
       slides: ~
@@ -193,7 +193,7 @@
       assignments:
         - 
           deadline: 2020-11-13
-          title: "Lab 4"
+          title: "Lab 4 - Simulations"
           url: 
       readings:
         -
@@ -211,7 +211,7 @@
       assignments:
         - 
           deadline: 2020-11-16
-          title: "Homework 4"
+          title: "Homework 4 - Applying Functions and Iteration"
           url: ~
       readings: 
         - 
@@ -232,11 +232,11 @@
       assignments:
         - 
           deadline: 2020-11-19
-          title: "Homework 5"
+          title: "Homework 5 - Probability, Simulation, Estimation, and Assessing Models"
           url: ~
         - 
           deadline: 2020-11-18
-          title: "Lab 5"
+          title: "Lab 5 - Assessing Models: Examining the Therapeutic Touch"
           url: 
     - 
       assignments: 
@@ -253,13 +253,13 @@
       assignments:
         - 
           deadline: 2020-11-20
-          title: "Lab 6"
+          title: "Lab 6 - Inference and the Death Penalty"
           url: 
     - 
       assignments: 
         - 
           deadline: 2020-11-23
-          title: "Homework 6"
+          title: "Homework 6 - Testing Hypotheses"
           url: ~
         -
           deadline: 2020-11-24
@@ -280,11 +280,11 @@
       assignments: 
         - 
           deadline: 2020-11-26
-          title: "Homework 7"
+          title: "Homework 7 - Confidence Intervals"
           url: ~
         - 
           deadline: 2020-11-25
-          title: "Lab 7"
+          title: "Lab 7 - Resampling and Bootstrap"
           url: 
       date: 2020-11-23
       title: Estimation and Bootstrap <br> Confidence Intervals
@@ -310,11 +310,11 @@
       assignments: 
         - 
           deadline: 2020-12-03
-          title: "Homework 8"
+          title: "Homework 8 - Resampling and the Bootstrap"
           url: ~
         - 
           deadline: 2020-12-02
-          title: "Lab 8"
+          title: "Lab 8 - Normal Distribution and Variance of Sample Means"
           url: 
       date: 2020-11-30
       title: Correlation
@@ -330,7 +330,7 @@
       assignments:
         - 
           deadline: 2020-12-04
-          title: "Lab 9"
+          title: "Lab 9 - Conditional Probability"
           url: 
       title: Least Squares <br> Residuals
     - 
@@ -338,11 +338,7 @@
       assignments: 
         - 
           deadline: 2020-12-07
-          title: "Homework 9"
-          slides: ~
-        - 
-          deadline: 2020-12-06
-          title: "Lab 9"
+          title: "Homework 9 - Linear Regression"
           slides: ~
       title: Regression Inference
   name: "Week 6 - Linear Regression"
@@ -354,11 +350,11 @@
       assignments: 
         - 
           deadline: 2020-12-10
-          title: "Homework 10"
+          title: "Homework 10 - Regression Inference"
           url: ~
         - 
           deadline: 2020-12-09
-          title: "Lab 10"
+          title: "Lab 10 - Correlation" 
           url: 
     - 
       date: 2020-12-08
@@ -371,7 +367,7 @@
       assignments:
         - 
           deadline: 2020-12-11
-          title: "Lab 11"
+          title: "Lab 11 - Regression Inference"
           url: 
     - 
       date: 2020-12-10
@@ -380,7 +376,7 @@
       assignments: 
         - 
           deadline: 2020-12-14
-          title: "Homework 11"
+          title: "Homework 11 - Classification"
           url: ~
   name: "Week 7 - Prediction"
 - 
