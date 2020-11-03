@@ -91,8 +91,8 @@ as the course meetings and labs
 </tr>
 <tr align="center">
 <td align="center">Francesca Loiodice</td>
-<td align="center"> Wednesday </td>
-<td>7 - 8pm</td>
+<td align="center"> Wednesday <br> Thursday </td>
+<td>7 - 7:30pm <br> 10 - 10:30pm</td>
 </tr>
 <tr align="center">
 <td align="center">Lucie le Blanc</td>
