@@ -128,7 +128,8 @@
         -
           url: "https://www.inferentialthinking.com/chapters/07/Visualization.html"
           title: "Chapter 7: Visualizations"
-      slides: ~
+      slides: slides/week2/lecture4-visualization.pdf
+      notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_5.ipynb&branch=master
     - 
       assignments: 
         - 
