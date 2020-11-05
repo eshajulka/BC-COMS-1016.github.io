@@ -139,8 +139,9 @@
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw02%2Fhw02.ipynb&branch=master
       date: 2020-11-05
       notebook: ~
-      slides: 
+      slides: slides/week2/lecture5-histograms-functions.pdf
       title: "Functions and Tables"
+      notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_6.ipynb&branch=master
       readings: 
         -
           url: "https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html"
@@ -188,6 +189,10 @@
         -
           url: inferentialthinking.com/chapters/09/3/Simulation.html
           title: Chapter 9.3 - Simulation
+      assignments:
+        -
+          deadline: 2020-11-18
+          title: Checkpoint/Project 1
     - 
       date: 2020-11-11
       notebook: ~
