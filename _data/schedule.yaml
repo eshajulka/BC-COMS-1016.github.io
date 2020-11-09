@@ -164,11 +164,10 @@
           title: "Lab 3 - Functions and Visualizations"
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab03%2Flab03.ipynb&branch=master 
       date: 2020-11-09
-      slides: ~
-      notebook: ~
       slides: slides/week3/lecture6-functions.pdf
       title: "Functions and Tables and Conditionals"
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_7.ipynb&branch=master
+      completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_7_completed.ipynb&branch=master
       readings:
         -
           url: https://www.inferentialthinking.com/chapters/09/1/Conditional_Statements.html
