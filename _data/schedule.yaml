@@ -174,10 +174,9 @@
           title: "Chapter 9.1 - Conditional Statements"
     - 
       date: 2020-11-10
-      notebook: ~
-      slides: 
       title: "Randomness"
-      slides: ~
+      notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_8.ipynb&branch=master
+      slides: slides/week3/lecture7-pivot-join-randomness.pdf
       readings:
         -
           url: https://www.inferentialthinking.com/chapters/09/Randomness.html
