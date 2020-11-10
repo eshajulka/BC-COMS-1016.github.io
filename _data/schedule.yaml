@@ -201,7 +201,7 @@
         - 
           deadline: 2020-11-13
           title: "Lab 4 - Simulations"
-          url: 
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab04%2Flab04.ipynb&branch=master 
       readings:
         -
           url: "https://www.inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html"
