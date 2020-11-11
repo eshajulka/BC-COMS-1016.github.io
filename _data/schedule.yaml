@@ -196,7 +196,7 @@
     - 
       date: 2020-11-11
       notebook: ~
-      slides: 
+      slides: slides/week3/lecture8-control-statements-randomness.pdf
       title: "Monty Hall & Probabilities"
       assignments:
         - 
