@@ -219,7 +219,7 @@
         - 
           deadline: 2020-11-16
           title: "Homework 4 - Applying Functions and Iteration"
-          url: ~
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw04%2Fhw04.ipynb&branch=master
       readings: 
         - 
           url: "https://www.inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html"
