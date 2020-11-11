@@ -196,6 +196,7 @@
     - 
       date: 2020-11-11
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_9.ipynb&branch=master
+      completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_9_completed.ipynb&branch=master
       slides: slides/week3/lecture8-control-statements-randomness.pdf
       title: "Monty Hall & Probabilities"
       assignments:
