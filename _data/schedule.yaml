@@ -215,7 +215,7 @@
     - 
       date: 2020-11-12
       notebook: ~
-      slides: 
+      slides: slides/week3/lecture9-monty_hall-probabilities.pdf
       title: "Sampling & Empirical Distributions I"
       assignments:
         - 
