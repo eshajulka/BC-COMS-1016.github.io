@@ -172,6 +172,9 @@
         -
           url: https://www.inferentialthinking.com/chapters/09/1/Conditional_Statements.html
           title: "Chapter 9.1 - Conditional Statements"
+        -
+          url: https://www.inferentialthinking.com/chapters/09/2/Iteration.html
+          title: Chapter 9.2 - Iterations
     - 
       date: 2020-11-10
       title: "Lecture 8:<br>Pivot, Joins, & Comparisons"
@@ -182,9 +185,6 @@
         -
           url: https://www.inferentialthinking.com/chapters/09/Randomness.html
           title: Chapter 9 - Randomness
-        -
-          url: https://www.inferentialthinking.com/chapters/09/2/Iteration.html
-          title: Chapter 9.2 - Iterations
         -
           url: inferentialthinking.com/chapters/09/3/Simulation.html
           title: Chapter 9.3 - Simulation
@@ -237,7 +237,17 @@
       date: 2020-11-16
       notebook: ~
       slides: 
-      title: "Sampling & Empirical Distributions II"
+      title: "Lecture 11<br>Probabilities, Sampling, & Statistical Models"
+      readings:
+        -
+          url: https://www.inferentialthinking.com/chapters/09/5/Finding_Probabilities.html
+          title: Chapter 9.5 - Finding Probabilities
+        -
+          url: https://www.inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html
+          title: Chapter 10 - Sampling and Empirical Distributions
+        -
+          url: https://www.inferentialthinking.com/chapters/11/1/Assessing_Models.html
+          title: Chapter 11.1 - Assessing Models
       assignments:
         - 
           deadline: 2020-11-19
@@ -252,13 +262,15 @@
       date: 2020-11-17
       notebook: ~
       slides: 
-      title: "Hypothesis Testing"
+      old_title: "Hypothesis Testing"
+      title: "Lecture 12<br>Comparing Distributions, Decisions and Uncertainty"
       slides: ~
     - 
       date: 2020-11-18
       notebook: ~
       slides: 
-      title: "A/B Testing"
+      old_title: "A/B Testing"
+      title: "Lecture 13<br>Hypothesis Testing"
       assignments:
         - 
           deadline: 2020-11-20
@@ -275,7 +287,8 @@
           title: Midterm 
           notes: potentially released Nov 17th
       date: 2020-11-19
-      title: Causality
+      old_title: Causality
+      title: "Lecture 14:<br>A/B Testing"
       slides:
       notebook: ~
     -
