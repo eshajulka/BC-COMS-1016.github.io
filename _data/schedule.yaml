@@ -11,7 +11,7 @@
           title: "Homework 0 - Causality & Expressions"
           url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw00%2Fhw00.ipynb&branch=master"
       date: 2020-10-26
-      title: "Course Introduction"
+      title: "Lecture 1: <br> Course Introduction"
       slides: slides/week1/lecture0-intro.pdf
       modules: 
         - 
@@ -45,7 +45,7 @@
     - 
       assignments: ~
       date: 2020-10-27
-      title: "Data Types, Expressions"
+      title: "Lecture 2:<br>Data Types, Expressions"
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_2_Data_Types_Expressions.ipynb&branch=master
       slides: slides/week1/lecture1-data-types-expressions.pdf
       modules: 
@@ -78,7 +78,7 @@
       date: 2020-10-28
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_3.ipynb&branch=master
       slides: slides/week1/lecture2-tables_arrays_sequences.pdf
-      title: "Tables -  Arrays & Columns, Building Tables"
+      title: "Lecture 3:<br> Tables, Arrays, & Sequences"
       readings:
         -
           url: "https://www.inferentialthinking.com/chapters/03/4/Introduction_to_Tables.html"
@@ -96,7 +96,7 @@
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_4.ipynb&branch=master
       completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_4_completed.ipynb&branch=master
       slides: slides/week1/lecture3-more_tables.pdf
-      title: "More Tables"
+      title: "Lecture 4:<br>More Tables"
       readings:
         -
           url: "https://www.inferentialthinking.com/chapters/06/Tables.html"
@@ -123,7 +123,7 @@
           title: "Lab 2 - Data Types and Arrays"
           url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab02%2Flab02.ipynb&branch=master"
       date: 2020-11-04
-      title: "Visualization"
+      title: "Lecture 5:<br>Visualization"
       readings:
         -
           url: "https://www.inferentialthinking.com/chapters/07/Visualization.html"
@@ -138,7 +138,7 @@
           title: "Homework 2 - Table Manipulation & Visualization"
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw02%2Fhw02.ipynb&branch=master
       date: 2020-11-05
-      title: "Visualization II: barplot & histograms" 
+      title: "Lecture 6:<br> Histograms"
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_6.ipynb&branch=master
       completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_6_completed.ipynb&branch=master
       readings: 
@@ -165,7 +165,7 @@
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab03%2Flab03.ipynb&branch=master 
       date: 2020-11-09
       slides: slides/week3/lecture6-functions.pdf
-      title: "Functions and Tables and Conditionals"
+      title: "Lecture 7:<br>Functions & Apply, Group, Pivot"
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_7.ipynb&branch=master
       completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_7_completed.ipynb&branch=master
       readings:
@@ -174,7 +174,7 @@
           title: "Chapter 9.1 - Conditional Statements"
     - 
       date: 2020-11-10
-      title: "Randomness"
+      title: "Lecture 8:<br>Pivot, Joins, & Comparisons"
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_8.ipynb&branch=master
       completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_8_completed.ipynb&branch=master
       slides: slides/week3/lecture7-pivot-join-randomness.pdf
@@ -198,7 +198,7 @@
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_9.ipynb&branch=master
       completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_9_completed.ipynb&branch=master
       slides: slides/week3/lecture8-control-statements-randomness.pdf
-      title: "Monty Hall & Probabilities"
+      title: "Lecture 9: Randomness & Control Statements (If, For)"
       assignments:
         - 
           deadline: 2020-11-13
@@ -217,7 +217,7 @@
       completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_10_completed.ipynb&branch=master
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_10.ipynb&branch=master
       slides: slides/week3/lecture9-monty_hall-probabilities.pdf
-      title: "Sampling & Empirical Distributions I"
+      title: "Control Statements & Monty Hall"
       assignments:
         - 
           deadline: 2020-11-16
