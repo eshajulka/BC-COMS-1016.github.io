@@ -261,10 +261,10 @@
     - 
       assignments: 
       date: 2020-11-17
-      notebook: ~
+      notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_12.ipynb&branch=master
       old_title: "Hypothesis Testing"
       title: "Lecture 12<br>Statistic, Hypothesis Testing"
-      slides: ~
+      slides: slides/week4/lecture11-Hypothesis_Testing.pdf
       readings:
         -
           url: https://www.inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html
