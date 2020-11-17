@@ -235,6 +235,7 @@
   lectures: 
     - 
       date: 2020-11-16
+      completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_11_completed.ipynb&branch=master
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_11.ipynb&branch=master
       slides: slides/week4/lecture10-probabilities-distributions.pdf
       title: "Lecture 11<br>Probabilities, Sampling, & Statistical Models"
