@@ -238,7 +238,7 @@
       completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_11_completed.ipynb&branch=master
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_11.ipynb&branch=master
       slides: slides/week4/lecture10-probabilities-distributions.pdf
-      title: "Lecture 11<br>Probabilities, Sampling, & Statistical Models"
+      title: "Lecture 11<br>Probabilities, Sampling, & Distributions"
       readings:
         -
           url: https://www.inferentialthinking.com/chapters/09/5/Finding_Probabilities.html
@@ -262,10 +262,16 @@
       assignments: 
       date: 2020-11-17
       notebook: ~
-      slides: 
       old_title: "Hypothesis Testing"
-      title: "Lecture 12<br>Comparing Distributions, Decisions and Uncertainty"
+      title: "Lecture 12<br>Statistic, Hypothesis Testing"
       slides: ~
+      readings:
+        -
+          url: https://www.inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html
+          title: Chapter 10.3 - Empirical Distribution of a Statistic
+       -
+          url: https://www.inferentialthinking.com/chapters/11/Testing_Hypotheses.html
+          title: Chapter 11 - Testing Hypotheses
     - 
       date: 2020-11-18
       notebook: ~
