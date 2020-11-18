@@ -82,7 +82,7 @@ as the course meetings and labs
 <tr align="center">
 <td>Adam Poliak</td>
 <td align="center">Monday<br>Tuesday<br>Thursday</td>
-<td>9pm-10pm <br> 9pm-10pm <br> 9pm-10pm</td>
+<td>9pm-10pm <br> 9pm-10pm <br> <strike>9pm-10pm</strike> 5pm-6pm</td>
 </tr>
 <tr align="center">
 <td align="center">Priyadharshini Rajbabu</td>
