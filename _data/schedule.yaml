@@ -278,12 +278,22 @@
       notebook: ~
       slides: 
       old_title: "A/B Testing"
-      title: "Lecture 13<br>Hypothesis Testing"
+      title: "Lecture 13<br>Comparing Distributions & Measuring Uncertainty"
       assignments:
         - 
           deadline: 2020-11-20
           title: "Lab 6 - Inference and the Death Penalty"
           url: 
+      readings:
+        -
+          title: Chapter 11.2 - Multiple Categories
+          url: https://www.inferentialthinking.com/chapters/11/2/Multiple_Categories.html
+        -
+          title: Chapter 11.3 - Decisions and Uncertainty
+          url: https://www.inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html
+        -
+          title: Chapter 11.4 - Error Probabilities
+          url: https://www.inferentialthinking.com/chapters/11/4/Error_Probabilities.html
     - 
       assignments: 
         - 
@@ -299,6 +309,10 @@
       title: "Lecture 14:<br>A/B Testing"
       slides:
       notebook: ~
+      readings:
+        -
+          url: https://www.inferentialthinking.com/chapters/12/Comparing_Two_Samples.html
+          title: Chapter 12 - Comparing Two Samples
     -
       date: 2020-11-19
       title: "Last day to withdraw course/declare P/F"
@@ -317,13 +331,21 @@
           title: "Lab 7 - Resampling and Bootstrap"
           url: 
       date: 2020-11-23
-      title: Estimation and Bootstrap <br> Confidence Intervals
+      title: Lecture 15:<br>Estimation and Bootstrap <br> Confidence Intervals
       notebook: ~
       slides: ~
+      readings:
+        -
+          title: Chapter 13 - Estimation
+          url: https://www.inferentialthinking.com/chapters/13/Estimation.html 
     - 
       date: 2020-11-24
       slides: ~
-      title: Distributions <br> Variance of Sample Means
+      title: Lecture 16:<br> Distributions <br> Variance of Sample Means
+      readings:
+        -
+          title: Chapter 14 - Why the Mean Matters
+          url: https://www.inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html
     - 
       date: 2020-11-25
       slides: ~
