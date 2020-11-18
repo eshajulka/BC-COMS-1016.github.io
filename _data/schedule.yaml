@@ -276,7 +276,7 @@
     - 
       date: 2020-11-18
       notebook: ~
-      slides: 
+      slides: slides/week4/lecture12_Comparing_Distributions_Measuring_Uncertainty.pdf 
       old_title: "A/B Testing"
       title: "Lecture 13<br>Comparing Distributions & Measuring Uncertainty"
       assignments:
