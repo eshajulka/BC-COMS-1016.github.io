@@ -369,14 +369,22 @@
           title: "Lab 8 - Normal Distribution and Variance of Sample Means"
           url: 
       date: 2020-11-30
-      title: Correlation
+      title: Lecture 17<br>Correlation
       notebook: ~
       slides: ~
+      readings:
+        -
+          url: https://www.inferentialthinking.com/chapters/15/1/Correlation.html
+          title: Chapter 15.1 Correlation
     - 
       date: 2020-12-01
-      title: Linear Regression
+      title: Lecture 18<br>Linear Regression
       notebook: ~
       slides: ~
+      readings:
+        -
+          url: https://www.inferentialthinking.com/chapters/15/2/Regression_Line.html
+          title: Chapter 15.2 - The Regression Line
     - 
       date: 2020-12-02
       assignments:
@@ -384,7 +392,21 @@
           deadline: 2020-12-04
           title: "Lab 9 - Conditional Probability"
           url: 
-      title: Least Squares <br> Residuals
+      title: Lecture 19<br>Least Squares & Residuals
+      readings:
+        -
+          title: Chapter 15.3 - The Method of Least Squares
+          url: https://www.inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html
+        -
+          title: Chapter 15.4 - Least Squares Regression
+          url: https://www.inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html
+        -
+          title: Chapter 15.5 - Visual Diagnostics
+          url: https://www.inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html
+        -
+          title: Chapter 15.6 - Numerical Diagnostics
+          url: https://www.inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html
+       
     - 
       date: 2020-12-03
       assignments: 
@@ -392,7 +414,11 @@
           deadline: 2020-12-07
           title: "Homework 9 - Linear Regression"
           slides: ~
-      title: Regression Inference
+      title: Lecture 20<br> Regression Inference
+      readings:
+        -
+          title: Chapter 16 - Inference for Regression
+          url: https://www.inferentialthinking.com/chapters/16/Inference_for_Regression.html
   name: "Week 6 - Linear Regression"
 - 
   lectures: 
