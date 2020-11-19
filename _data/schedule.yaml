@@ -308,8 +308,8 @@
       date: 2020-11-19
       old_title: Causality
       title: "Lecture 14:<br>A/B Testing"
-      slides:
-      notebook: ~
+      slides: slides/week4/lecture12_Comparing_Distributions_Measuring_Uncertainty.pdf 
+      notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_14.ipynb&branch=master
       readings:
         -
           url: https://www.inferentialthinking.com/chapters/12/Comparing_Two_Samples.html
