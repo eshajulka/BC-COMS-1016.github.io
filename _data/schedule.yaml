@@ -94,8 +94,8 @@
           url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw01%2Fhw01.ipynb&branch=master"
       date: 2020-10-29
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_4.ipynb&branch=master
-      completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_4_completed.ipynb&branch=master
       slides: slides/week1/lecture3-more_tables.pdf
+      completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_4_completed.ipynb&branch=master
       title: "Lecture 4:<br>More Tables"
       readings:
         -
@@ -276,6 +276,7 @@
     - 
       date: 2020-11-18
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_13.ipynb&branch=master
+      completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_13_completed.ipynb&branch=master
       slides: slides/week4/lecture12_Comparing_Distributions_Measuring_Uncertainty.pdf 
       old_title: "A/B Testing"
       title: "Lecture 13<br>Comparing Distributions & Measuring Uncertainty"
