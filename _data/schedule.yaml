@@ -310,6 +310,7 @@
       title: "Lecture 14:<br>A/B Testing"
       slides: slides/week4/lecture13_pvalues_comparing_two_samples.pdf
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_14.ipynb&branch=master
+      completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_14_completed.ipynb&branch=master
       readings:
         -
           url: https://www.inferentialthinking.com/chapters/12/Comparing_Two_Samples.html
