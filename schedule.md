@@ -126,9 +126,11 @@ Make sure you are registered for the course [Gradescope](https://www.gradescope.
         <td>
           {% if lecture.assignments %} 
             {% for assignment in lecture.assignments %}
+                {% if assignment.canceled %}<strike> {% endif %}
                 {% if assignment.optional %}<b>Optional:</b> {% endif %}
                 <a href="{{ assignment.url }}">{{ assignment.title }}</a> 
                 (Due {{assignment.deadline | date: '%a, %b %-d, %Y' }})
+                {% if assignment.canceled %}</strike> {% endif %}
             <br />
             {% endfor %}
           {% endif %}

@@ -329,6 +329,7 @@
           deadline: 2020-11-26
           title: "Homework 7 - Confidence Intervals"
           url: ~
+          canceled: True
         - 
           deadline: 2020-11-25
           title: "Lab 7 - Resampling and Bootstrap"
@@ -365,7 +366,7 @@
       assignments: 
         - 
           deadline: 2020-12-03
-          title: "Homework 8 - Resampling and the Bootstrap"
+          title: "Homework 8 - Confidence Intervals, Resampling, and the Bootstrap"
           url: ~
         - 
           deadline: 2020-12-02
