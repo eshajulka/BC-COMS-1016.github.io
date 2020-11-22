@@ -333,7 +333,7 @@
         - 
           deadline: 2020-11-25
           title: "Lab 7 - Resampling and Bootstrap"
-          url: 
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab07%2Flab07.ipynb&branch=master
       date: 2020-11-23
       title: Lecture 15:<br>Estimation and Bootstrap <br> Confidence Intervals
       notebook: ~
