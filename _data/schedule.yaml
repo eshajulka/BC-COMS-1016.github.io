@@ -343,6 +343,7 @@
       date: 2020-11-23
       title: Lecture 15 <br> Causality and Estimation Variability <strike><br> Bootstrap Confidence Intervals</strike> <br>
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_15.ipynb&branch=master
+      completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_15_completed.ipynb&branch=master
       slides: slides/week5/lecture15_Causality_Estimation_Variability.pdf
       readings:
         -
