@@ -255,7 +255,8 @@
           title: "Homework 5 - Probability, Simulation, Estimation, and Assessing Models"
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw05%2Fhw05.ipynb&branch=master
         - 
-          deadline: Made Optional
+          canceled: True
+          deadline: 2020-11-18
           title: "Lab 5 - Assessing Models: Examining the Therapeutic Touch"
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab05%2Flab05.ipynb&branch=master
     - 
@@ -333,7 +334,12 @@
         - 
           deadline: 2020-11-25
           title: "Lab 7 - Resampling and Bootstrap"
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab07%2Flab07.ipynb&branch=master
+          url: 
+          canceled: True
+        - 
+          deadline: 2020-11-25
+          title: "Lab 5 - Assessing Models: Examining the Therapeutic Touch"
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab05%2Flab05.ipynb&branch=master
       date: 2020-11-23
       title: Lecture 15:<br>Estimation and Bootstrap <br> Confidence Intervals
       notebook: ~
@@ -370,8 +376,8 @@
           url: ~
         - 
           deadline: 2020-12-02
-          title: "Lab 8 - Normal Distribution and Variance of Sample Means"
-          url: 
+          title: "Lab 7 - Normal Distribution and Variance of Sample Means"
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab07%2Flab07.ipynb&branch=master
       date: 2020-11-30
       title: Lecture 17<br>Correlation
       notebook: ~
