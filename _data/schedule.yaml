@@ -341,9 +341,9 @@
           title: "Lab 5 - Assessing Models: Examining the Therapeutic Touch"
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab05%2Flab05.ipynb&branch=master
       date: 2020-11-23
-      title: Lecture 15:<br>Estimation and Bootstrap <br> Confidence Intervals
+      title: Lecture 15 <br> Causality and Estimation Variability <strike><br> Bootstrap Confidence Intervals</strike> <br>
       notebook: ~
-      slides: ~
+      slides: slides/week5/lecture15_Causality_Estimation_Variability.pdf
       readings:
         -
           title: Chapter 13 - Estimation
@@ -351,7 +351,7 @@
     - 
       date: 2020-11-24
       slides: ~
-      title: Lecture 16:<br> Distributions <br> Variance of Sample Means
+      title: Lecture 16 <br> Bootstrap & Confidence Intervals <br> Distributions <br> Variance of Sample Means
       readings:
         -
           title: Chapter 14 - Why the Mean Matters
@@ -400,7 +400,7 @@
       assignments:
         - 
           deadline: 2020-12-04
-          title: "Lab 9 - Conditional Probability"
+          title: "Lab 8 - Regression"
           url: 
       title: Lecture 19<br>Least Squares & Residuals
       readings:
@@ -442,7 +442,7 @@
           url: ~
         - 
           deadline: 2020-12-09
-          title: "Lab 10 - Correlation" 
+          title: "Lab 9 - Conditional Probability"
           url: 
     - 
       date: 2020-12-08
@@ -455,7 +455,7 @@
       assignments:
         - 
           deadline: 2020-12-11
-          title: "Lab 11 - Regression Inference"
+          title: "Lab 10 - Correlation" 
           url: 
     - 
       date: 2020-12-10
