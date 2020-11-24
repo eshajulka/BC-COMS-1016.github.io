@@ -353,6 +353,7 @@
       date: 2020-11-24
       slides: slides/week5/lecture16_estimation.pdf
       title: Lecture 16 <br> Bootstrap & Confidence Intervals <br> Distributions <br> Variance of Sample Means
+      completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_16_completed.ipynb&branch=master
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_16.ipynb&branch=master
       readings:
         -
