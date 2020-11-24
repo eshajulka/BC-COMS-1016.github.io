@@ -352,7 +352,7 @@
     - 
       date: 2020-11-24
       slides: slides/week5/lecture16_estimation.pdf
-      title: Lecture 16 <br> Bootstrap & Confidence Intervals <br> Distributions <br> Variance of Sample Means
+      title: Lecture 16 <br> Bootstrap <strike><strike>& Confidence Intervals</strike> <br> Distributions <br> Variance of Sample Means</strike>
       completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_16_completed.ipynb&branch=master
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_16.ipynb&branch=master
       readings:
@@ -382,19 +382,31 @@
           title: "Lab 7 - Normal Distribution and Variance of Sample Means"
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab07%2Flab07.ipynb&branch=master
       date: 2020-11-30
-      title: Lecture 17<br>Correlation
+      title: Lecture 17<br>Confidence Intervals & Center and Spread <strike>Correlation</strike>
+      notebook: ~
+      slides: ~
+      readings:
+        -
+          url: https://www.inferentialthinking.com/chapters/15/1/Correlation.html
+          title: <strike>Chapter 15.1 Correlation</strike>
+        -
+          title: Chapter 13.3 - Confidence Intervals
+          url: https://www.inferentialthinking.com/chapters/13/3/Confidence_Intervals.html
+        -
+          title: Chapter 13.4 - Using Confidence Intervals
+          url: https://www.inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html
+        -
+          title: Chapter 14 - Why the Mean Matters
+          url: https://www.inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html
+    - 
+      date: 2020-12-01
+      title: Lecture 18<br>Corelation & Linear Regression
       notebook: ~
       slides: ~
       readings:
         -
           url: https://www.inferentialthinking.com/chapters/15/1/Correlation.html
           title: Chapter 15.1 Correlation
-    - 
-      date: 2020-12-01
-      title: Lecture 18<br>Linear Regression
-      notebook: ~
-      slides: ~
-      readings:
         -
           url: https://www.inferentialthinking.com/chapters/15/2/Regression_Line.html
           title: Chapter 15.2 - The Regression Line
