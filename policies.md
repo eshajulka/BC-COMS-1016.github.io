@@ -34,7 +34,7 @@ Materials for all homeworks, projects, and labs will be distributed on the cours
   - If possible, keep your camera on during class sessions
 
 ### Homework and Projects
-Homework assignments are a required part of the course. They will be released on Mondays and Thursdays, and due on Thursdays and Sundays. Each student must submit each homework independently, but you are encouraged to discuss problems with other students and course staff. See the "Learning Cooperatively" section below.
+Homework assignments are a required part of the course. They will be released on Mondays and Thursdays, and due on Thursdays and Sundays. Each student must submit each homework independently, but you are encouraged to discuss problems with other students and course staff. 
 
 Data science is about analyzing real-world data sets, and so a series of projects involving real data are a required part of the course. On each project, you may work with a single partner. Both partners will receive the same score.
 
@@ -47,6 +47,10 @@ The M/T labs will be due at Wednesday night (11:59pm) and the W/R labs will be d
 Friday night (11:59pm).
 
 ~~There are no late day for the labs~~ Late days can now be used for the labs.
+
+#### Dropped Homeworks and Labs
+To account for issues that arise in these uncertain times, we 
+will drop your lowest **two** homeworks and labs.
 
 ### Barnard Student Honor Code
 Approved by the student body in 1912 and updated in 2016, the Code states:
