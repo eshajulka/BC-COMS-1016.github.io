@@ -376,7 +376,7 @@
         - 
           deadline: 2020-12-03
           title: "Homework 7 - Confidence Intervals, Resampling, the Bootstrap, and the Central Limit Theorem"
-          url: ~
+          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw07%2Fhw07.ipynb&branch=master
         - 
           deadline: 2020-12-02
           title: "Lab 7 - Normal Distribution and Variance of Sample Means"
@@ -437,7 +437,7 @@
       assignments: 
         - 
           deadline: 2020-12-07
-          title: "Homework 9 - Linear Regression"
+          title: "Homework 8 - Linear Regression"
           slides: ~
       title: Lecture 20<br> Regression Inference
       readings:
@@ -453,7 +453,7 @@
       assignments: 
         - 
           deadline: 2020-12-10
-          title: "Homework 10 - Regression Inference"
+          title: "Homework 9 - Regression Inference"
           url: ~
         - 
           deadline: 2020-12-09
@@ -479,7 +479,7 @@
       assignments: 
         - 
           deadline: 2020-12-14
-          title: "Homework 11 - Classification"
+          title: "Homework 10 - Classification"
           url: ~
   name: "Week 7 - Prediction"
 - 
