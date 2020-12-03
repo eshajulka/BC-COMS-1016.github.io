@@ -441,7 +441,7 @@
         - 
           deadline: 2020-12-07
           title: "Homework 8 - Linear Regression"
-          slides: ~
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw08%2Fhw08.ipynb&branch=master"
       title: Lecture 20<br> Regression Inference
       readings:
         -
