@@ -357,7 +357,7 @@
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_16.ipynb&branch=master
       readings:
         -
-          title: Chapter 14 - Why the Mean Matters
+          title: <strike>Chapter 14 - Why the Mean Matters</strike>
           url: https://www.inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html
     - 
       date: 2020-11-25
@@ -397,20 +397,23 @@
           title: Chapter 13.4 - Using Confidence Intervals
           url: https://www.inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html
         -
-          title: Chapter 14 - Why the Mean Matters
+          title: <strike>Chapter 14 - Why the Mean Matters</strike>
           url: https://www.inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html
     - 
       date: 2020-12-01
-      title: Lecture 18<br>Corelation & Linear Regression
+      title: Lecture 18<br>Standard Deviations and Normal Distributions<br><strike>Corelation & Linear Regression</strike>
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_18.ipynb&branch=master
       slides: slides/week6/lecture18_sdt_correlation.pdf
       readings:
         -
+          title: Chapter 14 - Why the Mean Matters
+          url: https://www.inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html
+        -
           url: https://www.inferentialthinking.com/chapters/15/1/Correlation.html
-          title: Chapter 15.1 Correlation
+          title: <strike>Chapter 15.1 - Correlation</strike>
         -
           url: https://www.inferentialthinking.com/chapters/15/2/Regression_Line.html
-          title: Chapter 15.2 - The Regression Line
+          title: <strike>Chapter 15.2 - The Regression Line</strike>
     - 
       date: 2020-12-02
       assignments:
@@ -418,9 +421,53 @@
           deadline: 2020-12-04
           title: "Lab 8 - Regression"
           url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flabs%2Flab08%2Flab08.ipynb&branch=master 
-      title: Lecture 19<br>Least Squares & Residuals
+      title: Lecture 19<br>Correlation<br>Nearest Neighbor Regression<br><strike>Least Squares & Residuals</strike>
       slides: slides/week6/lecture19_correlation_regression.pdf
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_19.ipynb&branch=master
+      readings:
+        -
+          url: https://www.inferentialthinking.com/chapters/15/1/Correlation.html
+          title: Chapter 15.1 Correlation
+        -
+          url: https://www.inferentialthinking.com/chapters/15/2/Regression_Line.html
+          title: <strike>Chapter 15.2 - The Regression Line</strike>
+        -
+          title: <strike>Chapter 15.3 - The Method of Least Squares</strike>
+          url: https://www.inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html
+        -
+          title: <strike>Chapter 15.4 - Least Squares Regression</strike>
+          url: https://www.inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html
+        -
+          title: <strike>Chapter 15.5 - Visual Diagnostics</strike>
+          url: https://www.inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html
+        -
+          title: <strike>Chapter 15.6 - Numerical Diagnostics</strike>
+          url: https://www.inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html
+       
+    - 
+      date: 2020-12-03
+      assignments: 
+        - 
+          deadline: 2020-12-07
+          title: "Homework 8 - Linear Regression"
+          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw08%2Fhw08.ipynb&branch=master"
+      title: Lecture 20<br>Linear Regression<br><strike>Regression Inference</strike>
+      readings:
+        -
+          title: <strike>Chapter 16 - Inference for Regression</strike>
+          url: https://www.inferentialthinking.com/chapters/16/Inference_for_Regression.html
+        -
+          url: https://www.inferentialthinking.com/chapters/15/2/Regression_Line.html
+          title: <strike>Chapter 15.2 - The Regression Line</strike>
+      slides: slides/week6/lecture20_regression_inference.pdf
+      notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_20.ipynb&branch=master
+  name: Week 6 - Linear Regression
+- 
+  lectures: 
+    - 
+      date: 2020-12-07
+      slides: ~
+      title: Lecture 21 <br> Linear Regression <br>Least Squares & Residuals
       readings:
         -
           title: Chapter 15.3 - The Method of Least Squares
@@ -434,27 +481,6 @@
         -
           title: Chapter 15.6 - Numerical Diagnostics
           url: https://www.inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html
-       
-    - 
-      date: 2020-12-03
-      assignments: 
-        - 
-          deadline: 2020-12-07
-          title: "Homework 8 - Linear Regression"
-          url: "http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fhomeworks%2Fhw08%2Fhw08.ipynb&branch=master"
-      title: Lecture 20<br> Regression Inference
-      readings:
-        -
-          title: Chapter 16 - Inference for Regression
-          url: https://www.inferentialthinking.com/chapters/16/Inference_for_Regression.html
-      slides: slides/week6/lecture20_regression_inference.pdf
-      notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_20.ipynb&branch=master
-  name: "Week 6 - Linear Regression"
-- 
-  lectures: 
-    - 
-      date: 2020-12-07
-      slides: ~
       assignments: 
         - 
           deadline: 2020-12-10
@@ -467,20 +493,34 @@
     - 
       date: 2020-12-08
       slides: ~
-      title: 
+      title: Lecture 22 <br> Final Project discussion <br> Regression Inference
+      readings:
+        -
+          title: Chapter 16 - Inference for Regression
+          url: https://www.inferentialthinking.com/chapters/16/Inference_for_Regression.html
     - 
       date: 2020-12-09
       slides: ~
-      title:
+      title: Lecture 23 <br> Classification
       assignments:
         - 
           deadline: 2020-12-11
           title: "Lab 10 - Correlation" 
           url: 
+     readings:
+       -
+         url: https://www.inferentialthinking.com/chapters/17/Classification.html
+         title: Chapter 17 - Classification
+       -
+         url: https://www.inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html
+         title: Chapter 17.1 - Nearest Neighbors
+       -
+         url: https://www.inferentialthinking.com/chapters/17/2/Training_and_Testing.html
+         title: Chapter 17.2 - Training and Testing
     - 
       date: 2020-12-10
       slides: ~
-      title:
+      title: Lecture 24 <br> Classification by Multiple Features
       assignments: 
         - 
           deadline: 2020-12-14
@@ -492,7 +532,7 @@
     - 
       date: 2020-12-14
       slides: ~
-      title: "Lecture 25"
+      title: Lecture 25 <br> Updating Predictions
     - 
       date: 2020-12-23
       title: "Final due"
