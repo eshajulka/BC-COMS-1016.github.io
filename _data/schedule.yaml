@@ -461,72 +461,82 @@
           title: <strike>Chapter 15.2 - The Regression Line</strike>
       slides: slides/week6/lecture20_regression_inference.pdf
       notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_20.ipynb&branch=master
-  name: Week 6 - Linear Regression
+  name: "Week 6 - Linear Regression"
 - 
-  lectures: 
-    - 
-      date: 2020-12-07
-      slides: ~
-      title: Lecture 21 <br> Linear Regression <br>Least Squares & Residuals
-      readings:
-        -
-          title: Chapter 15.3 - The Method of Least Squares
-          url: https://www.inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html
-        -
-          title: Chapter 15.4 - Least Squares Regression
-          url: https://www.inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html
-        -
-          title: Chapter 15.5 - Visual Diagnostics
-          url: https://www.inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html
-        -
-          title: Chapter 15.6 - Numerical Diagnostics
-          url: https://www.inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html
-      assignments: 
-        - 
-          deadline: 2020-12-10
-          title: "Homework 9 - Regression Inference"
-          url: ~
-        - 
-          deadline: 2020-12-09
-          title: "Lab 9 - Conditional Probability"
-          url: 
-    - 
-      date: 2020-12-08
-      slides: ~
-      title: Lecture 22 <br> Final Project discussion <br> Regression Inference
-      readings:
-        -
-          title: Chapter 16 - Inference for Regression
-          url: https://www.inferentialthinking.com/chapters/16/Inference_for_Regression.html
-    - 
-      date: 2020-12-09
-      slides: ~
-      title: Lecture 23 <br> Classification
-      assignments:
-        - 
-          deadline: 2020-12-11
-          title: "Lab 10 - Correlation" 
-          url: 
-     readings:
-       -
-         url: https://www.inferentialthinking.com/chapters/17/Classification.html
-         title: Chapter 17 - Classification
-       -
-         url: https://www.inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html
-         title: Chapter 17.1 - Nearest Neighbors
-       -
-         url: https://www.inferentialthinking.com/chapters/17/2/Training_and_Testing.html
-         title: Chapter 17.2 - Training and Testing
-    - 
-      date: 2020-12-10
-      slides: ~
-      title: Lecture 24 <br> Classification by Multiple Features
-      assignments: 
-        - 
-          deadline: 2020-12-14
-          title: "Homework 10 - Classification"
-          url: ~
   name: "Week 7 - Prediction"
+  lectures:
+      -
+        date: 20220-12-07
+        slides: ~
+        title: Lecture 21 <br> Linear Regression <br>Least Squares & Residuals
+        readings:
+          -
+            title: "Chapter 15.3 - The Method of Least Squares"
+            url: https://www.inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html
+          -
+            title: "Chapter 15.4 - Least Squares Regression"
+            url: https://www.inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html
+          -
+            title: "Chapter 15.5 - Visual Diagnostics"
+            url: https://www.inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html
+          -
+            title: "Chapter 15.6 - Numerical Diagnostics"
+            url: https://www.inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html
+        assignments: 
+          - 
+            deadline: 2020-12-10
+            title: "Homework 9 - Regression Inference"
+            url: ~
+          - 
+            deadline: 2020-12-09
+            title: "<strike>Lab 9 - Conditional Probability</strike>"
+            url:
+      - 
+        date: 2020-12-08
+        slides: ~
+        title: Lecture 22 <br> Final Project discussion <br> Regression Inference
+        readings:
+          -
+            title: "Chapter 16 - Inference for Regression"
+            url: https://www.inferentialthinking.com/chapters/16/Inference_for_Regression.html
+      - 
+        date: 2020-12-09
+        slides: ~
+        title: Lecture 23 <br> Classification
+        assignments:
+          - 
+            deadline: 2020-12-11
+            title: "<strike>Lab 10 - Correlation</strike>" 
+            url:
+          - 
+            deadline: 2020-12-11
+            title: "Lab 9 - Conditional Probability"
+            url:
+        readings:
+         -
+           url: https://www.inferentialthinking.com/chapters/17/Classification.html
+           title: "Chapter 17 - Classification"
+         -
+           url: https://www.inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html
+           title: "Chapter 17.1 - Nearest Neighbors"
+         -
+           url: https://www.inferentialthinking.com/chapters/17/2/Training_and_Testing.html
+           title: "Chapter 17.2 - Training and Testing"
+         -
+           url: https://www.inferentialthinking.com/chapters/17/3/Rows_of_Tables.html
+           title: "Chapter 17.3 - Rows of Tables"
+      - 
+        date: 2020-12-10
+        slides: ~
+        title: Lecture 24 <br> Classification by Multiple Features
+        assignments: 
+          - 
+            deadline: 2020-12-14
+            title: "Homework 10 - Classification"
+            url: ~
+        readings:
+          -
+            url: 
 - 
   lectures: 
     - 
