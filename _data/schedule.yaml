@@ -490,7 +490,7 @@
           -
             deadline: 2020-12-14
             title: "Project 3"
-          url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fprojects%2Fproject3%2Fproject3.ipynb&branch=master
+            url: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Fprojects%2Fproject3%2Fproject3.ipynb&branch=master
           - 
             deadline: 2020-12-09
             title: "<strike>Lab 9 - Conditional Probability</strike>"
