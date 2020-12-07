@@ -468,6 +468,7 @@
       -
         date: 2020-12-07
         notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_21.ipynb&branch=master
+      completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_21_completed.ipynb&branch=master
         slides: slides/week7/lecture21.pdf
         title: Lecture 21 <br> Linear Regression <br>Least Squares & Residuals
         readings:
@@ -498,7 +499,7 @@
             url:
       - 
         date: 2020-12-08
-        slides: ~
+        slides: slides/week7/lecture22.pdf
         title: Lecture 22 <br> Final Project discussion <br> Regression Inference
         readings:
           -
