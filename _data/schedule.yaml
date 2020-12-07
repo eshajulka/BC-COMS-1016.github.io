@@ -467,7 +467,8 @@
   lectures:
       -
         date: 2020-12-07
-        slides: ~
+      notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_21.ipynb&branch=master
+        slides: slides/week7/lecture21.pdf
         title: Lecture 21 <br> Linear Regression <br>Least Squares & Residuals
         readings:
           -
