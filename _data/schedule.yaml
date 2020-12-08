@@ -502,6 +502,7 @@
         slides: slides/week7/lecture22.pdf
         title: Lecture 22 <br> Final Project discussion <br> Regression Inference
         notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_22.ipynb&branch=master
+        completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_22_completed.ipynb&branch=master
         readings:
           -
             title: "Chapter 16 - Inference for Regression"
