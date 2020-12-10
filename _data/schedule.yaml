@@ -511,6 +511,7 @@
         title: Lecture 23 <br> Classification
         slides: slides/week7/lecture23.pdf
         notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_23.ipynb&branch=master
+        completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_23_completed.ipynb&branch=master
         assignments:
           - 
             deadline: 2020-12-11
