@@ -27,10 +27,10 @@ The final project is open-ended and will result in a research report.  We have p
 
 The different deliverables required for the final project are:
 
-* [Part 1: Preregisteration](#preregistration). **Due Saturday 12/19 11:59PM** This is worth 9 points of your final project grade. The earlier your pre-register your questions and experiments with us (on gradescope), the earlier we can provide feedback and direction.
-* [Part 2: Final Write Up](#final-write-up). **Due Wednesday 12/23 11:59PM** This is worth 16 points of your final project grade.
+* [Part 1: Preregisteration](#preregistration). **Due Saturday 12/19 11:59PM** This is worth 5 points of your final project grade. The earlier your pre-register your questions and experiments with us (on gradescope), the earlier we can provide feedback and direction.
+* [Part 2: Final Write Up](#final-write-up). **Due Wednesday 12/23 11:59PM** This is worth 20 points of your final project grade.
 
-# Datasets
+### Datasets
 You have an option of 6 datasets to explore and analyze. We have provided a notebook on JupyterHub for each of these datasets. These datasets are:
 
 - [Family & Household Wealth in the United States (2009-2013)](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2FUS-wealth%2Fwealth-final-project.ipynb&branch=master)
@@ -48,6 +48,8 @@ The notebooks each contain 4 main parts:
 4. A submission section where you can download your notebooks as a zip file. 
 
 Upon completion of the project notebook, you will need to download the submission zip file and upload to Gradescope. 
+
+<br>
 
 # Research Report
 The main deliverable for this project is a research report. Here, we break down the components of the research report that you will submit.
@@ -92,7 +94,7 @@ The other table should be the result of a `join`. If the resulting is too large 
 
 Please provide a brief explanation of each plot and table. The explanations should describe what the plot/table is telling us and why we should care about it. 
 
-We provide tips for plotting [below](#plotting-tips)
+We provide tips for your visualizations [below](#tips-and-suggestions)
  
 **Note: The explanation for each plot and table should be between 1 and 3 sentences**
 
@@ -137,11 +139,13 @@ Almost all research studies have limitations. Unforunately, these final projects
 stating at least one potential limitation of your data or analysis.
 Some ideas to consider include whether there are Potential sources of bias in your data, are your hypothesis testing and prediction methods appropriate, iff you could do it again, what would you change.
 This shpuld be 1 - 3 sentences.
+
+<br>
  
 # Deliverables and Deadlines
 
 
-## Preregistration
+### Preregistration
 > Preregistration should 1) restrict as many researcher degrees of freedom as possible, 2) detail all aspects of a study’s method and analysis, 3) detail information on decisions made during the planning stages, and 4) specify how the results will be used and interpreted. Further, a preregistration must be publicly verifiable and permanent ... Preregistration should be used in any situation where researchers intend to collect data in order to make a claim, description, decision, or inference based on that data ... Preregistrations which do not address each of these points do more harm than good by falsely signalling credibility and quality.
 > 
 > McPhetres, Jonathon. 2020. “What Should a Preregistration Contain?.” PsyArXiv. June 1. doi:10.31234/osf.io/cj5mh.
@@ -154,24 +158,27 @@ the research report with the first two sections filled out (introduction and hyp
 
 Please submit the JupyterNotebook to Gradescope (Final Project Proposal /Preregistration) by **Saturday 12/19 11:59pm (EST)**. The earlier you submit your project preregistration/proposal, the earlier we will provide feedback and suggestions on how to improve your final-project.
 
-## Final Write Up
+### Final Write Up
 The final project write up will be due by **Wednesday 12/23 11:59pm (EST)**
+
+<br>
+
 
 # Tips and suggestions
 We provide some tips and suggestions that will help you while working on your final projects.
 
-## Note of Reproducibility 
+### Note of Reproducibility 
 
 The hypothesis testing and prediction sections’ results rely on random permutations and/or simulations which utilize pseudorandom number generators from your computers to perform the random draws. These random draws ultimately can affect the random permutations/simulations and produce varied results each time you run your code. To keep your results more constant we can provide our own random number, called a seed, to ensure that the random permutations/simulations don't vary between running your experiments. 
 
 In summary, we can use np.random.seed(seed), where seed is some integer before running code for permutations or simulations to allow for code reproducibility. 
 
-## Plots and Tables Tips
+### Plots and Tables Tips
 Plots should be intuitive and informative to help readers take away as many information as possible from the data. You may be tempted to create plenty more plots to demonstrate that you did your due diligence to explore the data set, but having too many plots in your report could result in information overload. 
 Select the plots and tables that you believe best summarizes the data and are related to your hypothesis testing and prediction question. 
 
 
-### Overplotting
+##### Overplotting
 
 
 <img src="images/jittered.png">
@@ -185,7 +192,7 @@ We now see that there were actually clusters of data points that we might have m
 **Note: We are only adding noise to the data for the purpose of visualization. The data after adding noise is not meant to be used in any other data analysis, hypothesis testing, etc. You should use the original dataset (pre-noise) when performing data analysis.**
 
 
-### Summary Tables
+##### Summary Tables
 
 <img src="images/sum.png">
 
