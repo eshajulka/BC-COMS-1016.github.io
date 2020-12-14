@@ -22,6 +22,7 @@ Final Project
 The final project is a group projct where you will put the tools and methods you learned in this course into action. You will ask research questions based on datasets that we provide and then use the methods you learned this semester to answer these questions.
 Your team can choose between 6 datasets. We provide a completed [example](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fexample%2Fexample_report.ipynb&branch=master) for you as well. 
  All team members will receive the same grade on the project.
+ **Note: Teams should not exceed a size of 2 members**
 
 The final project is open-ended and will result in a research report.  We have provided structure and specific guidelines on what the research report must contain ([guidelines below](#research-report)) but there is a wide range of what you might do.  Check out the [example final project](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fexample%2Fexample_report.ipynb&branch=master) for an idea of what constitutes a good project.  The example shows the scope of what you're required to do.
 
@@ -68,14 +69,15 @@ The idea here is to familiarize your readers with the data and variables.
 
 ## 2. Hypothesis Testing and Prediction Questions 
 
-In this section you should explain the overarching theme and direction of your research report. You will then describe your hypothesis testing question and state the null hypothesis and the alternative hypothesis. You will also use this section to state your prediction testing question
+In this section you should explain the overarching theme and direction of your research report. You will then describe your hypothesis testing question and state the null hypothesis and the alternative hypothesis. You will also use this section to **state** your prediction testing question.
 
 Make sure to discuss how these questions relate to the theme of your report. Please bold the sentence that mentions the hypothesis testing and prediction testing questions. (Use double stars to **\*\*bold\*\*** text).
 
 In this section, you will explain how you will go about testing your hypothesis. You will explain the test statistic you plan to use and simulate, as well as a motivatation and justification of what this test will help you determine. At this point, you will also decide on a significance cut-off level that you will use.
 
-For your prediction question, you will explain and justify which model and features you will use to make a prediction. We encourage you to use more than feature to make a prediction. 
+For your prediction question, you will explain and justify which model and features you will use to make a prediction. We encourage you to use more than one feature to make a prediction. 
 
+You don't need to need to implement the tests in Python Code in this section. You will do that in section 4.
 **Note: Keep the text length in this section between 250-300 words long.**
 
 ## 3. Exploratory Data Analysis 
@@ -86,7 +88,7 @@ The main goal in this section is to not only present the plots and tables but to
 You should create 4 visualizations: 2 plots and 2 tables. 
 Please create plots and tables that you believe best summarize the data and are most related to your hypothesis testing and prediction question. 
 
-**Plots** This section should have quantitative plot and one qualitative plot. 
+**Plots** This section should have one quantitative plot and one qualitative plot. 
 The quantitative plot could be a scatter plot, histogram, or other plots that we've used in the course. The qualitative plot may be generated from the provided data tables or from aggregated/joined tables.
 
 **Tables** One table should be based on an aggregation function, e.g. `pivot` or `goup`. 
@@ -96,7 +98,7 @@ Please provide a brief explanation of each plot and table. The explanations shou
 
 We provide tips for your visualizations [below](#tips-and-suggestions)
  
-**Note: The explanation for each plot and table should be between 1 and 3 sentences**
+**Note: The explanation for each plot and table should be between 1 and 3 sentences.**
 
 ## 4. Experiments
 
@@ -173,6 +175,8 @@ The hypothesis testing and prediction sections’ results rely on random permuta
 
 In summary, we can use np.random.seed(seed), where seed is some integer before running code for permutations or simulations to allow for code reproducibility. 
 
+**Note: For your convenience, `np.random.seed(seed)` has been added to the cells of your Project Report Notebooks already.**
+
 ### Plots and Tables Tips
 Plots should be intuitive and informative to help readers take away as many information as possible from the data. You may be tempted to create plenty more plots to demonstrate that you did your due diligence to explore the data set, but having too many plots in your report could result in information overload. 
 Select the plots and tables that you believe best summarizes the data and are related to your hypothesis testing and prediction question. 
@@ -185,7 +189,7 @@ Select the plots and tables that you believe best summarizes the data and are re
 
 Your data might be clustered very closely where all the points are imposed on top of one another. This can make it difficult to determine areas of the plot that are the most dense or where most observations lie. 
 The plots above present 2 discrete variables and their observations are plotted. 
- On the left plot, the data values are overlaid (each data point on the plot we see actually corresponds to a couple of data points)
+ On the left plot, the data values are overlaid (each data point on the plot we see actually corresponds to a couple of data points).
 On the right plot, we add some random noise to the variables and then plot them. This reveals a jittered scatter plot in which we have a better understanding on where popular combinations of these 2 variables exist.
 We now see that there were actually clusters of data points that we might have missed with the visualization on the left. 
     
