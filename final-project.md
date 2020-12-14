@@ -21,8 +21,7 @@ Final Project
 
 The final project is a group projct where you will put the tools and methods you learned in this course into action. You will ask research questions based on datasets that we provide and then use the methods you learned this semester to answer these questions.
 Your team can choose between 6 datasets. We provide a completed [example](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fexample%2Fexample_report.ipynb&branch=master) for you as well. 
- All team members will receive the same grade on the project.
- **Note: Teams should not exceed a size of 2 members**
+ All group members (at most 2 unless given approval for 3) will receive the same grade on the project.
 
 The final project is open-ended and will result in a research report.  We have provided structure and specific guidelines on what the research report must contain ([guidelines below](#research-report)) but there is a wide range of what you might do.  Check out the [example final project](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fexample%2Fexample_report.ipynb&branch=master) for an idea of what constitutes a good project.  The example shows the scope of what you're required to do.
 
