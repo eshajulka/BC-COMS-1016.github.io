@@ -537,7 +537,7 @@
       - 
         date: 2020-12-10
         slides: ~
-        title: Lecture 24 <br> Classification by Multiple Features
+        title: Lecture 24 <br> Machine Learning, Rows, Nearest Neighbors Classification
         slides: slides/week7/lecture24.pdf
         completed_notebook: http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Flecture_demos%2FLecture_24_completed.ipynb&branch=master
         assignments: 
@@ -553,7 +553,7 @@
     - 
       date: 2020-12-14
       slides: ~
-      title: Lecture 25 <br> Updating Predictions
+      title: Lecture 25 <br> Classification by Multiple Features, Course Review
     - 
       date: 2020-12-23
       title: "Final due"
