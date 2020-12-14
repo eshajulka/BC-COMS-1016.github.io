@@ -50,7 +50,7 @@ The notebooks each contain 4 main parts:
 Upon completion of the project notebook, you will need to download the submission zip file and upload to Gradescope. 
 
 # Research Report
-The main deliverable for this project is a research report. Here, we break down the components of your research report.
+The main deliverable for this project is a research report. Here, we break down the components of the research report that you will submit.
 
 ## 1. Introduction
 
@@ -149,7 +149,7 @@ This shpuld be 1 - 3 sentences.
 In many fields, preregistering your research question and experiment is a common practice. Before begining to test a theory, researchers will often preregister their planned analysis and experiments. This *[information is especially helpful in research that emphasizes null hypothesis significance testing. A thorough preregistration promotes transparency and openness and protects researchers from suspicions of p-hacking](https://www.psychologicalscience.org/publications/psychological_science/preregistration)*.
 
 For your project proposal and preregistration, please submit 
-the research report with the first two sections filled out (introduction and hypothesis testing and prediction questions). For this deadline, these sections do not need to be complete and formal, and outline that conveys the theme of your final projet, the questions you are asking, and the methods you will use to answer the questions will suffice.
+the research report with the first two sections filled out (introduction and hypothesis testing and prediction questions). You can also include the 3rd section (Exploratory Data Analysis) but it is not required. For this deadline, these sections do not need to be complete and formal. An outline that conveys the theme of your final projet, the questions you are asking, and the methods you will use to answer the questions will suffice.
 
 
 Please submit the JupyterNotebook to Gradescope (Final Project Proposal /Preregistration) by **Saturday 12/19 11:59pm (EST)**. The earlier you submit your project preregistration/proposal, the earlier we will provide feedback and suggestions on how to improve your final-project.
