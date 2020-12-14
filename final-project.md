@@ -81,7 +81,7 @@ For your prediction question, you will explain and justify which model and featu
 ## 3. Exploratory Data Analysis 
 > Visualize, and then quantify!
 
-In this section you will create visualization exploring the dataset. 
+In this section you will create visualizations exploring the dataset. 
 The main goal in this section is to not only present the plots and tables but to also convey to the readers what information they should be taking away from the plots and tables. 
 You should create 4 visualizations: 2 plots and 2 tables. 
 Please create plots and tables that you believe best summarize the data and are most related to your hypothesis testing and prediction question. 
@@ -102,7 +102,7 @@ We provide tips for your visualizations [below](#tips-and-suggestions)
 
 ### A. Hypothesis Testing 
 
-In this section, you will now testing your hypothesis. Please begin this section by stating the hypothesis test being performed. You should motivate the and explain the test and why it is appropriate here.
+In this section, you will now test your hypothesis. Please begin this section by stating the hypothesis test being performed. You should motivate and explain the test and why it is appropriate here.
 Make sure to also 1) restate the null hypothesis, 2) restate the alternative, 3) declare on a cut-off for a significance level.
 
 Next, you will write python code to implement the test. 
@@ -121,9 +121,9 @@ Please begin by restating your prediction question. Make sure to mention what me
 
 
 Next, you will write python code to implement your predictive model.
-You will also write code to evaluate your model fit, and, if possible, performance
-It is important to use appropriate diagnostic tools and measurements
-For example, if you are using linear regression, you can plot a scatter plot or residual plot to show whether there is truly a linear relationship in the data
+You will also write code to evaluate your model fit, and, if possible, performance.
+It is important to use appropriate diagnostic tools and measurements.
+For example, if you are using linear regression, you can plot a scatter plot or residual plot to show whether there is truly a linear relationship in the data.
 
 Finally, you will interpret your results. Here, make sure to discuss 
 whether your model fit the data well. Also discuss if we can use the model to predict the outcome of new data points, and if not, what changes should be made to the data to get a working model.
@@ -137,8 +137,8 @@ relate them to the overarching theme in the report (since you've already produce
 
 Almost all research studies have limitations. Unforunately, these final projects are no different. You should end your conclusion by 
 stating at least one potential limitation of your data or analysis.
-Some ideas to consider include whether there are Potential sources of bias in your data, are your hypothesis testing and prediction methods appropriate, iff you could do it again, what would you change.
-This shpuld be 1 - 3 sentences.
+Some ideas to consider include whether there are Potential sources of bias in your data, are your hypothesis testing and prediction methods appropriate, if you could do it again, what would you change.
+This should be 1 - 3 sentences.
 
 <br>
  
