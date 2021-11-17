@@ -17,11 +17,11 @@ Recordings are saved on Panopto and require a UNI login.
 
 The lecture schedule will be updated as the term progresses. 
 
-### Week 0 - Pre-course
+### Pre-course
 
 Make sure to fill out the pre-course survey that is available on Slack.
 
-Make sure you are registered for the course [Gradescope](https://www.gradescope.com/), [JupyterHub](http://jupyterhub.coms1016.barnard.edu/), and [Slack](https://bc-coms-1016-fallb.slack.com/).
+Make sure you are registered for the course [Gradescope](https://www.gradescope.com/), [JupyterHub](http://jupyterhub.coms1016.barnard.edu/), and [Piazza]().
 
 {% for week in site.data.schedule %}
   <h3>

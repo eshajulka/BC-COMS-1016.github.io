@@ -1,13 +1,220 @@
 - 
   lectures: 
     - 
-      date: 2020-12-14
+      date: 2022-01-18
       slides: ~
-      title: Lecture 25 <br> Final Project discussion <br> Course Review
-      slides: slides/week7/lecture25.pdf
+      title: Lecture 1 <br> Course Introduction <br> Correlation & Causation
+      slides: ~
       notebook:  ~
       completed_notebook: ~
     - 
-      date: 2020-12-23
-      title: "Final due"
-  name: "Week 1"
+      date: 2022-01-20
+      title: Lecture 2 <br> Data Types, Expressions
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-01-25
+      title: Lecture 3 <br> Tables, Arrays, & Sequences
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-01-27
+      slides: ~
+      title: Lecture 4 <br> More Tables
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-01-28
+      title: Last Day to Register
+      type: "'deadline'"
+  name: "Computation: Python & Tables" 
+- 
+  lectures: 
+    - 
+      date: 2022-02-01
+      title: Lecture 5 <br> Visualization
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-02-03
+      title: Lecture 6 <br> Histograms
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-02-08
+      slides: ~
+      title: Lecture 7 <br> Functions & Apply, Group, Pivot
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-02-10
+      title: Lecture 8 <br> Pivot, Joins, & Comparisons
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-02-15
+      title: Lecture 9 <br> Control Statements (If, For) & Randomness
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-02-17
+      title: Lecture 10 <br> Control Statements
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+  name: "Exploration"
+- 
+  lectures: 
+    - 
+      date: 2022-02-22
+      slides: ~
+      title: Lecture 11
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-02-22
+      slides: ~
+      title: Last day to drop
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+      type: "'deadline'"
+    -  
+      date: 2022-02-24
+      slides: ~
+      title: Lecture 12
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-03-01
+      slides: ~
+      title: Lecture 13
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-03-03
+      slides: ~
+      title: Lecture 14
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-03-08
+      slides: ~
+      title: Lecture 15
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-03-10
+      slides: ~
+      title: Lecture 16
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-03-15
+      title: Spring Break
+      type: "'no_lecture'"
+    - 
+      date: 2022-03-17
+      title: Spring Break
+      type: "'no_lecture'"
+    - 
+      date: 2022-03-22
+      slides: ~
+      title: Lecture 17
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-03-24
+      slides: ~
+      title: Lecture 18
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-03-29
+      slides: ~
+      title: Lecture 19
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-03-31
+      slides: ~
+      title: Lecture 20
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+  name: "Inference" 
+- 
+  lectures: 
+    - 
+      date: 2022-04-05
+      slides: ~
+      title: Lecture 21
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-04-07
+      slides: ~
+      title: Lecture 22
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-04-12
+      slides: ~
+      title: Lecture 23
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-04-14
+      slides: ~
+      title: Lecture 24
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-04-19
+      slides: ~
+      title: Lecture 25
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-04-21
+      slides: ~
+      title: Lecture 26
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-04-26
+      slides: ~
+      title: Lecture 27
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+    - 
+      date: 2022-04-28
+      slides: ~
+      title: Lecture 28
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+  name: "Prediction"
