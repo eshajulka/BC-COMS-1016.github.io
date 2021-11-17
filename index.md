@@ -7,6 +7,8 @@ caption: <!--An engraving of the Mechanical Turk, the 18th century chess-playing
 active_tab: main_page 
 ---
 
+
+
 <i>Data science is the study of extracting value from data</i>. This course will introduce students to the methods and tools used in data science to obtain insights from data. Students will learn how to analyze data arising from real-world phenomena while mastering critical concepts and skills in computer programming and statistical inference. The course will involve hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. This class is ideal for students looking to increase their digital literacy and expand their use and understanding of computation and data analysis across disciplines. No prior programming or math background is required.
 
 <!-- Display an alert about upcoming homework assignments -->
@@ -53,12 +55,13 @@ Website
 : [https://coms1016.barnard.edu/](https://coms1016.barnard.edu/)
 
 Discussion Forum
-: [Slack](https://join.slack.com/t/bc-coms-1016-fallb/signup) *Requires signing up via a barnard.edu or columbia.edu email*
+: [Piazza]() 
 
 Time and place
-: Fall B, MTWR 2:40-3:55pm, Location: Check courseworks for Zoom link
-: Lab 01 TR 9:00 - 9:50am
-: Lab 02 MW 6:10 - 7:00pm
+: Spring 2022, TR 11:40am-12:55pm, Location: Milstein L002
+: Lab 01 W: 2:00-4:00pm
+: Lab 02 R: 4:00-6:00pm
+: Lab 03 F: 9:00-11:00am
 
 Office Hours
 : <a href="office-hours.html">Times</a>
@@ -75,11 +78,13 @@ Course Readings
 : Some lectures will have accompanying optional reading related to the lecture's topic
 
 Grading
-: This is a project-based course. There will be an open book take home midterm but
-the majority of your grade will be based on assignments.
-* Assignments (Homeworks, mini-projects, Final project) - 70%
-* Exams and Quizes (Midterm, Daily Quizes) - 25%
-* Participation - 5%
+: TBD
+* Homeworks:
+* Labs:
+* Projects:
+* Midterm:
+* Final:
+* Participation: 5%
 
 <!--- 
 * Homeworks (20%)
