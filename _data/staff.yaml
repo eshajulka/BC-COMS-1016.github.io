@@ -2,38 +2,35 @@
     name: Adam Poliak
     pic: azpoliak.jpg
     email: apoliak@barnard.edu
-    webpage: http://azpoliak.github.io
+    webpage: https://azpoliak.github.io
     extra_title: Instructor
-    office_hours: <br><a href="http://azpoliak.github.io/calendar">By appointment</a>
-    lab_hours: MW 6:10 - 7:00pm; TR 9:00 - 9:50am
+    office_hours: TBA
     location: 511 Milstein Center
 -
-    name: Priya Rajbabu
-    pic: prajbabu.jpg
-    email: prajbabu@barnard.edu
-    office_hours: Wednesday 12:00pm - 1:00pm <br> Friday 11:00am - 12:00pm
-    lab_hours: MW 6:10 - 7:00pm
-    extra_title: Teaching Assistant
-    location: New York, NY
--
-    name: Francesca Loiodice
+    name: TA 1
     pic: temp.jpg
-    email: fl2508@barnard.edu
+    email: ta1@barnard.edu
     office_hours: TBD
-    lab_hours: Tuesday 9:00 - 9:50am
-    extra_title: Computing Fellow
-    location: Austin, Texas 
+    lab_hours: TBD
+    extra_title: Teaching Assistant
+    location: TBD
 -
-    name: Lucie le Blanc
-    pic: lleblanc.jpg
-    email: ll3163@barnard.edu
+    name: TA 2
+    pic: temp.jpg
+    email: ta2@barnard.edu
     office_hours: TBD
-    lab_hours: Thursday 9:00 - 9:50am
-    extra_title: Computing Fellow
-    location: New York, NY
+    lab_hours: TBD
+    extra_title: Teaching Assistant
+    location: TBD
 -
-   name: Susu Rawwagah
-   pic: susu.jpg
+    name: Computing Fellow 1
+    pic: temp.jpg
+    email: cf1@barnard.edu
+    office_hours: TBD
+    lab_hours: TBD
+    extra_title: Computing Fellow
+-
+   name: Preceptor
+   pic: temp.jpg
    extra_title: Preceptor
-   email: sfr2124@barnard.edu
-   location: New York, NY
+   email: preceptor@barnard.edu
