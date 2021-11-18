@@ -1,6 +1,6 @@
 ---
 title: Intro to Computational Thinking & Data Science - COMS 1016 - Barnard College
-layout: default
+layout: default-f20
 img: <!-- turk-engraving-detail -->
 img_link: <!-- http://en.wikipedia.org/wiki/The_Turk -->
 caption: <!--An engraving of the Mechanical Turk, the 18th century chess-playing automaton -->

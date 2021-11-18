@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-f20
 title: Staff - BC COMS 1016 
 active_tab: staff
 ---

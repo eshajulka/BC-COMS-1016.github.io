@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-f20
 title: BC COMS 1016 Policies
 active_tab: Policies
 ---

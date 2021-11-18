@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-f20
 title: Lectures
 active_tab: lectures
 ---
