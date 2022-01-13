@@ -13,9 +13,10 @@ All times listed on the course webpage are in Eastern Standard Time (EST).
 
 ### Support
 You are not alone in this course; the course staff
-are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use the appropriate for Slack channels. We will also hold virtual office hours for real-time discussions. 
+are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. We will use Piazza for online questions and discussions. 
+We will also hold virtual office hours for real-time discussions. 
 
-The Barnard CS help room is a great resources as well. We have listed their times on our [Office Hours page](http://coms1016.barnard.edu/office-hours.html#barnard-cs-help-room). The Zoom link is posted on [Slack](https://bc-coms-1016-fallb.slack.com/).
+The Barnard CS help room is a great resources as well. We have listed their times on our [Office Hours page](http://coms1016.barnard.edu/office-hours.html#barnard-cs-help-room). The Zoom link is posted on Piazza.
 
 ### Prerequisites
 BC COMS 1016 has no prerequisites. The curriculum and format is designed specifically for students who have not previously taken statistics or computer science courses. Students with some prior experience in either statistics or computing are welcome to enroll and will find much of interest due to the innovative nature of the course. Students who have taken several statistics or computer science courses should instead take a more advanced course.
@@ -23,7 +24,7 @@ BC COMS 1016 has no prerequisites. The curriculum and format is designed specifi
 ### Materials
 The main text is a free online textbook called [Computational and Inferential Thinking: The Foundations of Data Science](https://www.inferentialthinking.com/). This textbook was created by instructors of [data8](data8.org), a popular course at Berkeley. Our course is adopted from data8.
 
-The computing platform for the course is hosted at [http://jupyterhub.coms1016.barnard.edu/](http://jupyterhub.coms1016.barnard.edu/).
+The computing platform for the course is hosted at [https://bc-coms-1016-poliak.columbiajupyter2.org/](https://bc-coms-1016-poliak.columbiajupyter2.org/).
 You will login using your Barnard/Columbia credentials.
 Materials for all homeworks, projects, and labs will be distributed on the course schedule page. 
 
@@ -34,23 +35,23 @@ Materials for all homeworks, projects, and labs will be distributed on the cours
   - If possible, keep your camera on during class sessions
 
 ### Homework and Projects
-Homework assignments are a required part of the course. They will be released on Mondays and Thursdays, and due on Thursdays and Sundays. Each student must submit each homework independently, but you are encouraged to discuss problems with other students and course staff. 
+Homework assignments are a required part of the course. Homeworks will be released at the latest Thursday evenings and will be due the following Thursday.
+Each student must submit each homework independently, but you are encouraged to discuss problems with other students and course staff. 
 
 Data science is about analyzing real-world data sets, and so a series of projects involving real data are a required part of the course. On each project, you may work with a single partner. Both partners will receive the same score.
 
 #### Late days
-To account for issues that arise in these uncertain times, each student has **~~10~~ 15 late** days for the homeworks and projects. However, you can only use at most **2 late** days per assignment. 
+To account for issues that arise in these uncertain times, each student has **15 late** days for the homeworks and projects. However, you can only use at most **2 late** days per assignment. 
 
 ### Labs
-There are two labs a week.
-The M/T labs will be due at Wednesday night (11:59pm) and the W/R labs will be due at 
-Friday night (11:59pm).
+There are weekly labs.
+We encourage you to submit the lab after attending your lab section but the lab will be due the following Monday night.
 
-~~There are no late day for the labs~~ Late days can now be used for the labs.
+Late days can now be used for the labs.
 
 #### Dropped Homeworks and Labs
 To account for issues that arise in these uncertain times, we 
-will drop your lowest **two** homeworks and labs.
+will drop your lowest homework and and lowest lab.
 
 ### Barnard Student Honor Code
 Approved by the student body in 1912 and updated in 2016, the Code states:
