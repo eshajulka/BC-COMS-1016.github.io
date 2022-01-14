@@ -31,12 +31,19 @@
     extra_title: Teaching Assistant
     location: TBD
 -
-    name: Computing Fellow 1
+    name: Pranathi Srirangam
+    pic: psrirangam.jpg
+    email: ps3204@barnard.edu
+    office_hours: TBD
+    lab_hours: Wednesday 12-2
+    extra_title: Computing Fellow
+-
+    name: Computing Fellow 2
     pic: temp.jpg
     email: cf1@barnard.edu
     office_hours: TBD
     lab_hours: TBD
-    extra_title: Computing Fellow
+    extra_title: Computing Fellow    
 -
    name: Preceptor
    pic: temp.jpg
